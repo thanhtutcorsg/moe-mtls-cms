@@ -19,8 +19,8 @@ links:
     url: /Exhibit
     sublinks:
       - title: Overview
-        url: /overview
+        url: /exhibit/Overview/overview
       - title: 华文学习展示区
-        url: /test01
+        url: /exhibit/Exhibit-1/test02
       - title: Pameran Bahasa Melayu
         url: /test02
