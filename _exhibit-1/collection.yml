@@ -1,4 +1,5 @@
 collections:
   exhibit-1:
     output: true
-    order: []
+    order:
+      - Exhibit 1 Sub menu.md
