@@ -1,13 +1,17 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: ABOUT US
     url: /contact-us/
-  - title: Example Page
+  - title: OPENING CEREMONY
     url: /example-page/
+  - title: SHARING SESSION
+    url: /permalink
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Chinese
+        url: /permalink
+      - title: Malay
+        url: /permalink
+      - title: Tamil
+        url: /permalink
