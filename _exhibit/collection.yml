@@ -1,0 +1,4 @@
+collections:
+  exhibit:
+    output: true
+    order: []
