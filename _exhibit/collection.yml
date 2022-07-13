@@ -2,5 +2,6 @@ collections:
   exhibit:
     output: true
     order:
+      - Overview.md
       - Exhibit 2.md
       - Exhibit  1.md
