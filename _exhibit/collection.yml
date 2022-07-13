@@ -2,5 +2,4 @@ collections:
   exhibit:
     output: true
     order:
-      - Exhibit  1.md
       - Exhibit 2.md
