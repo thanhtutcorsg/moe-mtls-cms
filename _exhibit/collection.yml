@@ -2,4 +2,5 @@ collections:
   exhibit:
     output: true
     order:
+      - Exhibit 1/.keep
       - Overview/.keep
