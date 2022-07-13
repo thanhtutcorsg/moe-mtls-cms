@@ -2,4 +2,5 @@ collections:
   sharing-session:
     output: true
     order:
+      - English Session.md
       - Chinese Session.md
