@@ -1,4 +1,5 @@
 collections:
   sharing-session:
     output: true
-    order: []
+    order:
+      - Chinese Session.md
