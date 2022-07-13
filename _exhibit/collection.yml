@@ -2,6 +2,6 @@ collections:
   exhibit:
     output: true
     order:
-      - Exhibit  2/.keep
-      - Exhibit 1/.keep
       - Overview/.keep
+      - Exhibit 1/.keep
+      - Exhibit  2/.keep
