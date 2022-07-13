@@ -1,5 +1,4 @@
 collections:
   exhibit:
     output: true
-    order:
-      - Exhibit 2.md
+    order: []
