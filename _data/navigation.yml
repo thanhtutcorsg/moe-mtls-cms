@@ -24,3 +24,12 @@ links:
         url: /exhibit/Exhibit-1/test02
       - title: Pameran Bahasa Melayu
         url: /test02
+  - title: OPMTL TEACHER AWARD
+    url: /OPMTL_Award
+  - title: ONLINE QUEST
+    url: /online-quest
+  - title: OTHERS
+    url: /others
+    sublinks:
+      - title: " MTL Challenge"
+        url: / MTL-Challenge
