@@ -95,11 +95,13 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
    </div>
    <div class="row">
  <div class="column">
-<img src="/images/ms-zahidah-mahmood.png" style="width:19%">
+<img src="/images/ms-zahidah-mahmood.png" style="width:54%">
  <p> <center>Ms Zahidah Binte Mahmood <br />
 M.Y WORLD @ Punggol Edge</center>
  </p>
-    </div></div>
+    </div>
+	</div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+	</html>
 		
 </div>
