@@ -2,5 +2,4 @@ collections:
   others:
     output: true
     order:
-      - MTL Challenge  test.md
       - MTL Challenge.md
