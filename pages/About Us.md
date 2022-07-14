@@ -10,11 +10,6 @@ description: ""
 <h3> Our Past Symposiums</h3>
 <iframe width="642" height="361" src="https://www.youtube.com/embed/wvuiXKf_bJ4" title="MTLS 2019 Event Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe>
 <br/>
-<iframe width="642" height="361" src="https://www.youtube.com/embed/RXaW1jeuEj4" title="MTLS 2018 Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe>
-
-
-
-
-
+<iframe width="642" height="361" src="https://www.youtube.com/embed/RXaW1jeuEj4" title="MTLS 2018 Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe><br/>
 ![](/images/mtls21-supporter-banner.png)
 <p></p>
