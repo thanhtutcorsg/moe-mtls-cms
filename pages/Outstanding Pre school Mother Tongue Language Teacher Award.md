@@ -25,7 +25,6 @@ description: ""
     padding: 5px;
 }
 	</style>
-
 <h5><strong>Outstanding Award Winners </strong></h5>
 <br>
 <div class="row">
@@ -102,7 +101,4 @@ M.Y WORLD @ Punggol Edge</center>
     </div>
 	</div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-	</div>
-
-		
 </div>
