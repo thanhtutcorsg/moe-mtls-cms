@@ -3,7 +3,6 @@ title: Outstanding Pre school Mother Tongue Language Teacher Award
 permalink: /OPMTL-Award
 description: ""
 ---
-
 <h5><strong>Outstanding Award Winners </strong></h5>
 <br/>
 <div class="row">
@@ -58,7 +57,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
 </p>
     </div>
   <div class="column">
-<img src="/images/mrs-shanmugam-geetha.png" style="width:54%" /> 
+<img src="/images/mrs-shanmugam-geetha.png" style="width:54%" > 
  <p> <center> Mrs Shanmugam Geetha  <br />
   PCF Sparkletots @ Punggol Shore Blk 174D  </center>
    </p>
@@ -71,13 +70,12 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
    </div>
    <div class="row">
  <div class="column">
-<img src="https://d33wubrfki0l68.cloudfront.net/e8166118482144ab6cfb70c8597ab5bef49bf018/0ac0a/images/ms-zahidah-mahmood.png" style="width:54%" />
+<img src="/images/ms-zahidah-mahmood.png" style="width:54%">
  <p> <center>Ms Zahidah Binte Mahmood <br />
 M.Y WORLD @ Punggol Edge</center>
  </p>
-    </div></div>
-		<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a>
-			</div>
+    </div>
+</div>
 	
 	
 	</a></div>
