@@ -19,6 +19,11 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
+		.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
 	</style>
 
 <h5><strong>Outstanding Award Winners </strong></h5>
