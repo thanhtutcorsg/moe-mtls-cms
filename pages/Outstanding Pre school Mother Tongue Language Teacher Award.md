@@ -3,6 +3,24 @@ title: Outstanding Pre school Mother Tongue Language Teacher Award
 permalink: /OPMTL-Award
 description: ""
 ---
+<html>
+	<style>
+		.btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #3bb9ff;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+	</style>
+
 <h5><strong>Outstanding Award Winners </strong></h5>
 <br>
 <div class="row">
