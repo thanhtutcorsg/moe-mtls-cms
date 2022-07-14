@@ -26,56 +26,6 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
   </p>
     </div>
 	</div>
-	<div class="row">
-  <div class="column">
-   <a href="/award/Mr-Muhamad-Shahril-Bin-Samri/"><img src="/images/mr-muhamad-shahril-samri.png" style="width:54%;display:block;" /></a>
-<p> <center>Mr Muhamad Shahril Bin Samri <br />
- PCF Sparkletots @ Pioneer Blk 661B<br /> </center>
- </p>
-    </div>
-  <div class="column">
-<a href="/award/Mdm-Wang-zhihong/"><img src="/images/mdm-wang-zhihong.png" style="width:54%;display:block;" /></a>
-<p> <center> Mdm Wang Zhihong <br />
-  <span style="font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
-  <br />PCF Sparkletots @ Keat Hong Blk 411</center>
-  </p>
-    </div>
- <div class="column">
-<a href="/award/Mdm-Ye-Suqin/"><img src="/images/mdm-ye-suqin.png" style="width:54% ;display:block;" /> </a>
-  <p> <center> Mdm Ye Suqin<br />
-  <span style="font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
-  <br />PCF Sparkletots @ Kampong Chai Chee Blk 135</center> 
-  </p>
-    </div>
- </div>
- <h5><strong>Merit Award Winners</strong></h5>
-  <div class="row">
-  <div class="column">
-  <img src="/images/ms-lim-wen-zhi.png" style="width:54%" />
- <p> <center> Ms Lim Wen Zhi
-  <br />My First Skool at Blk 209 Ang Mo Kio</center>
-</p>
-    </div>
-  <div class="column">
-<img src="/images/mrs-shanmugam-geetha.png" style="width:54%" > 
- <p> <center> Mrs Shanmugam Geetha  <br />
-  PCF Sparkletots @ Punggol Shore Blk 174D  </center>
-   </p>
-    </div>
-  <div class="column">
-<img src="/images/ms-sharmila-devi.png" style="width:54%" />
- <p> <center> Mdm Sharmila Devi  D/O Mutu Manium <br />
-  PCF Sparkletots @ Boon Lay Blk 262 </center></p>
-    </div>
-   </div>
-   <div class="row">
- <div class="column">
-<img src="/images/ms-zahidah-mahmood.png" style="width:54%">
- <p> <center>Ms Zahidah Binte Mahmood <br />
-M.Y WORLD @ Punggol Edge</center>
- </p>
-    </div>
-</div>
 	
 	
 	</a></div>
