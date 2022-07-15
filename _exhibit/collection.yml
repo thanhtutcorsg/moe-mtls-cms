@@ -2,9 +2,8 @@ collections:
   exhibit:
     output: true
     order:
-      - தமிழ்மொழிக் காட்சிக்கூடம்.md
-      - Overview/Overview.md
       - Overview/.keep
+      - Overview/Overview.md
       - 华文学习展示区/.keep
       - 华文学习展示区/总览.md
       - 华文学习展示区/教育部课程.md
@@ -12,3 +11,4 @@ collections:
       - 华文学习展示区/中小学.md
       - 华文学习展示区/社区合作伙伴.md
       - Pameran Bahasa Melayu/.keep
+      - தமிழ்மொழிக் காட்சிக்கூடம்.md
