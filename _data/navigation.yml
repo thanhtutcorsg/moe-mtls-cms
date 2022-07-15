@@ -16,7 +16,7 @@ links:
       - title: Tamil
         url: /tamil-session
   - title: Exhibit
-    url: /overview
+    url: /Overview
     sublinks:
       - title: Overview
         url: /exhibit/Overview/overview
