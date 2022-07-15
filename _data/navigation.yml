@@ -16,10 +16,10 @@ links:
       - title: Tamil
         url: /tamil-session
   - title: Exhibit
-    url: /Overview
+    url: /overview
     sublinks:
       - title: Overview
-        url: /exhibit/Overview/overview
+        url: /overview
       - title: 华文学习展示区
         url: /exhibit/chinese-exhibitions-a/chinese-Overview
       - title: Pameran Bahasa Melayu
