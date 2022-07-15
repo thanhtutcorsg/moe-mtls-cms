@@ -21,9 +21,11 @@ links:
       - title: Overview
         url: /exhibit/Overview/overview
       - title: 华文学习展示区
-        url: /exhibit/chinese-exhibitions-a/chinese-overview/
+        url: /exhibit/chinese-exhibitions-a/chinese-Overview
       - title: Pameran Bahasa Melayu
-        url: /test02
+        url: /melayu-malay-language-exhibitions-a/gambaran-keseluruhan/
+      - title: தமிழ்மொழிக் காட்சிக்கூடம்
+        url: tamil-exhibitions-a/tamil-Overview
   - title: OPMTL TEACHER AWARD
     url: /OPMTL-Award
   - title: ONLINE QUEST
