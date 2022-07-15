@@ -5,7 +5,7 @@ links:
   - title: OPENING CEREMONY
     url: /test-page/
   - title: SHARING SESSION
-    url: /sharing-session
+    url: /english-session
     sublinks:
       - title: "English "
         url: /english-session
@@ -16,7 +16,7 @@ links:
       - title: Tamil
         url: /tamil-session
   - title: Exhibit
-    url: /Exhibit
+    url: /overview
     sublinks:
       - title: Overview
         url: /exhibit/Overview/overview
