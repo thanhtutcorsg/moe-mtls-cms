@@ -1,5 +1,5 @@
 collections:
-  exhibit:
+  exhibits:
     output: true
     order:
       - Overview/.keep
