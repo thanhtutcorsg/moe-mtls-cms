@@ -85,6 +85,20 @@ table.center {
     color: #fff;
     font-weight: 600;
 }
+		.btnClass {
+    display: inline-block;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #d14165;
+    border-radius: 6px;
+    outline: 0;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    width: 180px;
+	}
 </style>
 <h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Kementerian Pendidikan Singapura (MOE)</b></h2>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
