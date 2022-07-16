@@ -15,17 +15,17 @@ links:
         url: /malay-session
       - title: Tamil
         url: /tamil-session
-  - title: Exhibit
-    url: /exhibit/overview/overview
+  - title: Exhibits
+    url: /exhibits/overview/overview
     sublinks:
       - title: Overview
-        url: /exhibit/overview/overview
+        url: /exhibits/overview/overview
       - title: 华文学习展示区
-        url: /exhibit/chinese-exhibitions-a/chinese-Overview
+        url: /exhibits/chinese-exhibitions-a/chinese-Overview
       - title: Pameran Bahasa Melayu
-        url: /exhibit/pameran-bahasa-melayu/gambaran-keseluruhan
+        url: /exhibits/pameran-bahasa-melayu/gambaran-keseluruhan
       - title: தமிழ்மொழிக் காட்சிக்கூடம்
-        url: /exhibit/tmail-exhibitions-a/tl-overview
+        url: /exhibits/tmail-exhibitions-a/tl-overview
   - title: OPMTL TEACHER AWARD
     url: /OPMTL-Award
   - title: ONLINE QUEST
