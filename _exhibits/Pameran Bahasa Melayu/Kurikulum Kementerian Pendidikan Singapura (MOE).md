@@ -99,6 +99,9 @@ table.center {
     margin-bottom: 7px;
     width: 180px;
 	}
+		.btnClass:hover {
+background-color: lightgrey;!important;
+}
 </style>
 <h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Kementerian Pendidikan Singapura (MOE)</b></h2>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
