@@ -8,8 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/hero-banner-v2.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
