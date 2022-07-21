@@ -4,7 +4,7 @@ title: Mother Tongue Languages Symposium
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 1920x720.jpg
