@@ -4,7 +4,7 @@ permalink: /opening-ceremony
 description: ""
 ---
 <style>
-   iframe{
+iframe{
 position:absolute;
 	top:0;
 	left:0;
