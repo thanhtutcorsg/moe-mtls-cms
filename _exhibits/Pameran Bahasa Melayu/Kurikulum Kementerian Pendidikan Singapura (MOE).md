@@ -103,7 +103,7 @@ table.center {
 background-color: lightgrey;!important;
 }
 </style>
-<h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Kementerian Pendidikan Singapura (MOE)</b></h2>
+<h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Bahasa Ibunda Kementerian Pendidikan Singapura (MOE)</b></h2>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="/mlmoe/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
@@ -112,35 +112,33 @@ background-color: lightgrey;!important;
   <a href="/mlmoe/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prauniversiti</div></a>
 </div>  <br />
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
- <h4 style="padding-top:12px;color:#a3c864;"><b>Memupuk Pelajar Aktif dan Pengguna Cekap</b></h4>
+ <h4 style="padding-top:12px;color:#a3c864;"><b>Memupuk Pelajar yang Aktif dan Pengguna yang Cekap </b></h4>
  <p style="text-align:justify;">
-Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi dan memupuk kesedaran serta penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
+ Pendidikan Bahasa Ibunda bertujuan untuk memperkukuh kemahiran berkomunikasi dan memupuk kesedaran serta penghayatan warisan budaya dan nilai warga Singapura. Dengan ini, pelajar kita akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia.
 <br /><br />
-Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi pengguna bahasa yang cekap dan mempunyai asas kemahiran bahasa dan literasi yang kukuh. Dengan kemahiran teras seperti bertutur, mendengar dan membaca, pelajar kita dapat mempertingkat kemahiran menulis dan berkomunikasi dalam konteks kehidupan sebenar.  Penerapan ICT, CCE dan SEL meningkat pemahaman pelajar  tentang budaya dan nilai yang teranyam dalam kurikulum. 
+Kurikulum Bahasa Ibunda membina asas kemahiran bahasa yang kukuh agar pelajar kita menjadi pengguna bahasa yang cekap. Dengan kemahiran teras seperti bertutur, mendengar dan membaca, pelajar kita dapat mempertingkat kemahiran menulis dan berkomunikasi dalam konteks kehidupan sebenar. Penerapan Teknologi Informasi dan Komunikasi (ICT), Pendidikan Perwatakan dan Kewarganegaraan (CCE) dan Pembelajaran Sosial dan Emosi (SEL) meningkat pemahaman pelajar tentang budaya dan nilai yang teranyam dalam kurikulum.
 <br /><br />
-Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mendedahkan pelbagai bahan sastera dan teks yang autentik kepada para pelajar kita. Hal ini akan menjadikan Bahasa Ibunda bahasa yang hidup dan bermakna dalam kehidupan anak-anak kita. 
+Selain itu,  pembangunan kemahiran berfikir aras tinggi dan pendedahan kepada pelbagai bahan sastera dan teks yang autentik merupakan antara pengalaman pembelajaran yang dilalui oleh para pelajar kita . Hal ini akan menjadikan Bahasa Ibunda bahasa yang hidup dan bermakna dalam kehidupan mereka. 
 <br /><br />
-Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan untuk ibu bapa dan pendidik bagi menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
+Maklumat yang dipaparkan dalam laman Simposium Bahasa Ibunda tentang Kurikulum Bahasa Ibunda MOE ini bertujuan untuk memberikan pemahaman kepada ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan buat ibu bapa dan pendidik untuk menyokong pembelajaran Bahasa Ibunda yang menyeronokkan bagi anak-anak kita.
  </p>
 <h4 style="padding-top:12px;color:#a3c864;"> <b>Visi Pendidikan Bahasa Melayu Singapura </b></h4>
-<p><strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
-<table style="width:100%">
-  <tr>
-    <td><p style="text-align:justify;">Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
-<br /><br />
-</p></td>
-  <td><img src="/images/ml-sec-update.jpg" /><br />
-   </td>
-  </tr>
-</table>
+<p><strong> Arif Budiman </strong> (Insan berilmu pengetahuan yang berbakti kepada masyarakat)
+<p style="text-align:justify;">Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
 </p>
-<h4 style="padding-top:12px;color:#a3c864;"><b>Matlamat Kurikulum Bahasa Melayu </b> </h4>
-<img src="https://d33wubrfki0l68.cloudfront.net/a20740b556f696934ebabc3c99e3b0478d280b1c/88232/images/mtls-malay-matalamat-kurikulum-bahasa-melayu2.jpg" />
-<h4 style="padding-top:12px;color:#a3c864;">Nurturing Active Learners and Proficient Users</h4>
+ <h4 style="padding-top:12px;color:#a3c864;"><b>Matlamat Kurikulum Bahasa Melayu </b> </h4>
+ <p>Matlamat Kurikulum Bahasa Melayu adalah untuk membolehkan murid;</p>
+ <ul>
+ <li>Berkomunikasi secara efektif dalam kehidupan seharian dan alam pekerjaan.</li>
+  <li>Memahami dan membina jati diri melalui penghayatan yang mendalam tentang budaya tradisi, sastera dan sejarah.</li>
+   <li>Berhubung dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa atau mengamalkan budaya yang sama.</li>
+ </ul>
+ <h4 style="padding-top:12px;color:#a3c864;">Nurturing Active Learners and Proficient Users</h4>
   <div style="margin-top:auto;margin-bottom:auto;text-align:justify;">
-<p>The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br /><br />
- The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speaking and reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives. <br /><br />
- The information featured in our MTLS MOE MTL curriculum webpage aims to provide parents and educators with an understanding of the different opportunities for MTL learning beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
+<p> The key purpose of Mother Tongue Language (MTL) education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world.<br/><br/>
+The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speaking and reading. The infusion of Communications Technology (ICT), Character and Citizenship Education (CCE) and Social and Emotional Learning (SEL)  into the curriculum further enhances the learning and exposes our young to the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills, and exposes students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives.<br/><br/>
+The information featured in our MTLS MOE MTL curriculum webpage aims to provide parents and educators with an understanding of the different opportunities for MTL learning, beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and for them to be able to better support the children in this journey.
+</p>
  <br />
  <img src="/images/2021-08-04_mtls_web_footer_600x250_300dpi.jpg" class="Image" width="1000" height="300" />
 <div class="btntop">
