@@ -5,8 +5,11 @@ description: ""
 ---
 <style>
    iframe{
-border : 0;
-width:80% ;
+position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
 }
 .btntop {
     position: fixed;
