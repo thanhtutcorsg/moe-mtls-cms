@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/hero-banner-v2.gif
+      background: /images/Hero Banner 1920x720.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
