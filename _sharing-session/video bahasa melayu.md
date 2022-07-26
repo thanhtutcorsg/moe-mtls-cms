@@ -53,7 +53,7 @@ National Library Board  </td>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Introducing Malay Literacy to Early Learners Through Stories<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Introducing Malay Literacy to Early Learners Through Stories<br/>
   [ Virtual Workshop (For Parent-Child) from 2.30pm to 3.30pm ]<br/>
 Ms Nurain Syakirah binte Nordin <br/>
 		Founder of The Bambini Sg</td>
@@ -70,7 +70,7 @@ Ms Nurain Syakirah binte Nordin <br/>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Challenges Faced by Parents in Promoting the Use of Malay Language at Home<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Challenges Faced by Parents in Promoting the Use of Malay Language at Home<br/>
   [ Live Sharing Session from 4pm to 5pm ]<br/>
   <br/>
 Ms Fiza O <br/>
@@ -91,7 +91,7 @@ Ms Fiza O <br/>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Applying augmented reality in language acquisition based on growth mindset.<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Applying augmented reality in language acquisition based on growth mindset.<br/>
   [ Engagement Session from 5.30pm to 6.30pm ]<br/>
   <br/>
 Mr Djohan Bin Abdul Rahman  <br/>
@@ -115,7 +115,7 @@ Changkat Changi Secondary School
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Social-Emotional Development Through Outdoor Experiences<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Social-Emotional Development Through Outdoor Experiences<br/>
   [Pre-Recorded Sessions (Recordings will be made available online from 27 Aug 22) <br/>
 Ms Aminah Binte Abdul Latif<br/>
 		Forest School Leader</td>
@@ -132,7 +132,7 @@ Ms Aminah Binte Abdul Latif<br/>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Raising Bilingual Children: Developing Oral Competencies at Home<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Raising Bilingual Children: Developing Oral Competencies at Home<br/>
   [ Pre-Recorded Sessions (Recordings will be made available online from 27 Aug 22) <br/>
    <br/>
 Ms Aimuniliyana Md Rahim<br/>
@@ -157,7 +157,7 @@ Ms Aimuniliyana Md Rahim<br/>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Building a garden with children: A garden for them to explore, discover, play and grow into confident, bilingual communicators and resilient learners. <br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Building a garden with children: A garden for them to explore, discover, play and grow into confident, bilingual communicators and resilient learners. <br/>
   [ Pre-School Educators ] <br/>
 Dr Raudhah Yahya  <br/>
 		Lecturer, NIEC-NP </td>
@@ -174,7 +174,7 @@ Dr Raudhah Yahya  <br/>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">From Print to Screen: Leveraging on Videos to Foster Reading and Interest in the Language<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">From Print to Screen: Leveraging on Videos to Foster Reading and Interest in the Language<br/>
   [  Primary Educators ]   <br/>
   <br/>
 Mr Muhammad Shahzulhari bin Johari <br/>
