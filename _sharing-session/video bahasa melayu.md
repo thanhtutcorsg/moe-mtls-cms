@@ -9,7 +9,7 @@ description: ""
 	.btn1,.btn2,.btn-group button{
 	font-size: 18px;
     font-family: KaiTi;
-    background-color: #d84178;;
+    background-color: #a3c864;
     padding: 3px 13px;
     margin: 9px 13px;
     border-radius: 6px;
@@ -35,7 +35,7 @@ text-decoration:none;
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff">Livestreamed Storytelling Session in Malay Language<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Livestreamed Storytelling Session in Malay Language<br/>
   [Storytelling session (For K1 – P2 students)from 1.00pm to 2.00pm ]<br/>
    Mr Muhammed Shahril Bin Shaik Abdullah<br/>
 		Associate Librarian, Malay Language
