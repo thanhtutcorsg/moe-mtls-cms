@@ -11,16 +11,13 @@ description: ""
     font-family: KaiTi;
     background-color: #a3c864;
     padding: 10px 13px;
-    margin: 10px 13px;
+    margin: 25px 13px;
     border-radius: 6px;
     width: 60%;
     text-align: center;
 	display:block;
 	}
 	 .btn1:hover {
-background-color: lightgrey;!important;
-}
- .btn2:hover {
 background-color: lightgrey;!important;
 }
 .content a {
