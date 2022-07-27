@@ -35,7 +35,7 @@ description: ""
 	  padding: 1px 8px;
 	}
 	iframe {
-width:350%;
+width:350;
 	}
 	}
 	 .btn1:hover {
