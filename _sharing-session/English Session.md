@@ -11,7 +11,7 @@ description: ""
     font-family: KaiTi;
     background-color: #fa0;
     padding: 10px 13px;
-    margin: 10px 13px;
+    margin: 30px 13px;
     border-radius: 6px;
     width: 60%;
     text-align: center;
