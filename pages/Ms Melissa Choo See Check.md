@@ -27,7 +27,7 @@ description: ""
     border-radius: 6px;
     text-align: center;
     display: block;
-    margin-left: 78px;
+    margin-left: 34px;
 	}
 	 .btn1:hover {
 background-color: lightgrey;!important;
