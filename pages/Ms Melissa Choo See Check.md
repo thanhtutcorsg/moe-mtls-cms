@@ -53,12 +53,12 @@ max-width:20%;
 <table style="border-collapse: collapse; width: 80%;">
   <tr>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;">
+  text-align: left;padding: 8px;width: 43%;">
 			<a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
 <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;"><a href="#" style="float:right;">Back</a>
+  text-align: left;padding: 8px;width: 20%;"><a href="#" style="float:right;">Back</a>
 </td>
     </tr>
 </table>
@@ -66,8 +66,6 @@ max-width:20%;
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
     </div>
     <br />
-<div class="video-container">
-</div>
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
