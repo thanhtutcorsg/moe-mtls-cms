@@ -34,6 +34,9 @@ description: ""
    margin-left: -6px;
 	  padding: 1px 8px;
 	}
+	body{
+	width:100%;
+	}
 	}
 	 .btn1:hover {
 background-color: lightgrey;!important;
