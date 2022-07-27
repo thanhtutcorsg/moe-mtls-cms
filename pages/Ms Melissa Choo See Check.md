@@ -27,7 +27,7 @@ description: ""
     border-radius: 6px;
     text-align: center;
     display: block;
-    margin-left: 34px;
+    margin-left: 26px;
 	}
 	 .btn1:hover {
 background-color: lightgrey;!important;
@@ -66,7 +66,7 @@ max-width:20%;
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
     </div>
 <div class="video-container">
-<iframe width="900" height="500" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="800" height="500" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div><br>
 *Video is best viewed in 1080p.<br />
