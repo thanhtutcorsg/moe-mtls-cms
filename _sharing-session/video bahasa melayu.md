@@ -6,15 +6,15 @@ description: ""
 <html>
 <head>
 <style>
-	.btn1,.btn2,.btn-group button{
+	.btn1{
 	font-size: 18px;
     font-family: KaiTi;
     background-color: #a3c864;
-    padding: 3px 13px;
-    margin: 9px 13px;
+    padding: 10px 13px;
+    margin: 10px 13px;
     border-radius: 6px;
     width: 60%;
-  text-align: center;
+    text-align: center;
 	display:block;
 	}
 	 .btn1:hover {
@@ -42,10 +42,9 @@ text-decoration:none;
 National Library Board  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 <br/>
@@ -59,10 +58,8 @@ Ms Nurain Syakirah binte Nordin <br/>
 		Founder of The Bambini Sg</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+<a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+ </td>
     </tr>
 </table>
 <br/>
@@ -80,10 +77,8 @@ Ms Fiza O <br/>
 		Lead Specialist, Malay Language, CPDD</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 <br/>
@@ -104,9 +99,7 @@ Changkat Changi Secondary School
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
   </div></td>
     </tr>
 </table>
@@ -121,9 +114,7 @@ Ms Aminah Binte Abdul Latif<br/>
 		Forest School Leader</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
   </div></td>
     </tr>
 </table>
@@ -146,10 +137,9 @@ Ms Aimuniliyana Md Rahim<br/>
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 <br/>
@@ -163,10 +153,8 @@ Dr Raudhah Yahya  <br/>
 		Lecturer, NIEC-NP </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 <br/>
@@ -184,10 +172,8 @@ Mr Muhammad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School   </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 </body>
