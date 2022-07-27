@@ -96,7 +96,3 @@ A piece of ice may motivate children to speak; an image or a photo may help chil
 In this sharing session, the use of multiple sensory play (i.e. visual, auditory, olfactory, gustatory and tactile) and scaffolding strategies (i.e. linguistics scaffolding, curriculum resources scaffolding and peer scaffolding) will be introduced. These will ignite children’s interest in learning Chinese, and enhance cognitive development, concentration and  creativity in children.
       </p></div>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-
-</table>
-</body>
-</html>
