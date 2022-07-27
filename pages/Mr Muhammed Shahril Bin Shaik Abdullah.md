@@ -49,7 +49,7 @@ max-width:20%;
 </style>
 </head>
 <body>
-	<img src="/images/mtls2021_challenge_cl.jpg" /><br /><br />
+	<img src="/images/mtls2021_challenge_ml.jpg" /><br /><br />
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none;
