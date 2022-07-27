@@ -6,21 +6,18 @@ description: ""
 <html>
 <head>
 <style>
-	.btn1,.btn2,.btn-group button{
+	.btn1{
 	font-size: 18px;
     font-family: KaiTi;
     background-color: #fa0;
-    padding: 3px 13px;
-    margin: 9px 13px;
+    padding: 10px 13px;
+    margin: 10px 13px;
     border-radius: 6px;
     width: 60%;
-  text-align: center;
+    text-align: center;
 	display:block;
 	}
 	 .btn1:hover {
-background-color: lightgrey;!important;
-}
- .btn2:hover {
 background-color: lightgrey;!important;
 }
 .content a {
@@ -42,10 +39,8 @@ Ms Rilla Melati<br/>
         </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 <br/>
@@ -60,10 +55,8 @@ Dr. Shuhan C. Wang<br/>
      </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-  <div class="btn-group">
- <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a>
-  <a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-  </div></td>
+ <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
     </tr>
 </table>
 	<br/>
