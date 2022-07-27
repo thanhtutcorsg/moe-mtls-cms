@@ -54,7 +54,7 @@ Ms Nurain Syakirah binte Nordin <br/>
 		Founder of The Bambini Sg</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-<a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+<a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;">Watch Here!</a>
  </td>
     </tr>
 </table>
@@ -73,7 +73,7 @@ Ms Fiza O <br/>
 		Lead Specialist, Malay Language, CPDD</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Ms-Fiza-O-And-Mdm-Salha-Bte-Mohamed-Hussain" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
@@ -95,7 +95,7 @@ Changkat Changi Secondary School
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen" class="btn1" style="color:#fff;">Watch Here!</a>
  </td>
     </tr>
 </table>
@@ -110,7 +110,7 @@ Ms Aminah Binte Abdul Latif<br/>
 		Forest School Leader</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Ms-Aminah-Binte-Abdul-Latif" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
@@ -133,7 +133,7 @@ Ms Aimuniliyana Md Rahim<br/>
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-<a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+<a href="/Raising-Bilingual-Children" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
@@ -148,7 +148,7 @@ Dr Raudhah Yahya  <br/>
 		Lecturer, NIEC-NP </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Dr-Raudhah-Yahya" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
@@ -167,7 +167,7 @@ Mr Muhammad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School   </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Mr-Muhammad-Shahzulhari-bin-Johari-And-Mr-Airi-Bin-Bujang" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
