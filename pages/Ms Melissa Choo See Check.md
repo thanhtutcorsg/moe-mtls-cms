@@ -3,18 +3,17 @@ title: Ms Melissa Choo See Check
 permalink: /Ms-Melissa-Choo-See-Check
 description: ""
 ---
-
 <head>
 <style>
 	.btn1,.btn2{
-	font-size: 18px;
+	    font-size: 18px;
     font-family: KaiTi;
-    background-color: #d84178;;
-    padding: 3px 13px;
-    margin: 9px 13px;
+    background-color: #d84178;
+    padding: 13px 13px;
     border-radius: 6px;
     text-align: center;
-	display:block;
+    display: block;
+    margin-left: 78px;
 	}
 	 .btn1:hover {
 background-color: lightgrey;!important;
