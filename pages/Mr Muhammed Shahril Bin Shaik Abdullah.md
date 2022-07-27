@@ -19,7 +19,7 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-	.btn1,.btn2{
+		.btn1,.btn2{
 	    font-size: 18px;
     font-family: KaiTi;
     background-color: #a3c864;
@@ -27,7 +27,7 @@ description: ""
     border-radius: 6px;
     text-align: center;
     display: block;
-    margin-left: 78px;
+    margin-left: 26px;
 	}
 	 .btn1:hover {
 background-color: lightgrey;!important;
