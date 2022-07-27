@@ -26,7 +26,7 @@ text-decoration:none;
 }
 @media only screen and (max-width: 600px) {
   body {
-   width:74%
+   width:100%
   }
 }
 </style>
