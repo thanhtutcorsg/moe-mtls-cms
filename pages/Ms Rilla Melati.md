@@ -41,7 +41,7 @@ text-decoration:none;
 }
   img {
 height:auto;
-max-width:20%;
+max-width:100%;
 }
 </style>
 </head>
