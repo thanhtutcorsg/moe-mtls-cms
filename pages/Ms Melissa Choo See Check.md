@@ -50,7 +50,7 @@ max-width:20%;
 </head>
 <body>
 	<img src="/images/mtls2021_challenge_cl.jpg" /><br /><br />
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
