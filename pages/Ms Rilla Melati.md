@@ -30,9 +30,9 @@ description: ""
     margin-left: 26px;
 	}
 	@media only screen and (max-width: 600px){ 
-	.btn1{
+	.btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 13px;
+	  padding: 1px 8px;
 	}
 	}
 	 .btn1:hover {
