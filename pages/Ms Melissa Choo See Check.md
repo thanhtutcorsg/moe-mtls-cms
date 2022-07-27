@@ -58,7 +58,7 @@ max-width:20%;
   text-align: left;padding: 8px;width: 43%;">
 			<a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
 <td style="border: none;
-  text-align: left;padding: 25px;width: 20%;"><a href="#" style="float:right;">Back</a>
+  text-align: left;padding: 25px;width: 20%;"><a href="/chinese-session" style="float:right;">Back</a>
 </td>
     </tr>
 </table>
