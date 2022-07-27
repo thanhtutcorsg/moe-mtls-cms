@@ -100,7 +100,7 @@ Changkat Changi Secondary School
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
  <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
-  </div></td>
+ </td>
     </tr>
 </table>
 <br/>
@@ -115,7 +115,7 @@ Ms Aminah Binte Abdul Latif<br/>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
  <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
-  </div></td>
+</td>
     </tr>
 </table>
 <br/>
@@ -137,8 +137,7 @@ Ms Aimuniliyana Md Rahim<br/>
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-
- <a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
+<a href="#" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
