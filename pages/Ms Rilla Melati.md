@@ -37,6 +37,9 @@ description: ""
 	body{
 	width:100%;
 	}
+	iframe {
+width:350%;
+	}
 	}
 	 .btn1:hover {
 background-color: lightgrey;!important;
