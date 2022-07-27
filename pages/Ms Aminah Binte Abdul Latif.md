@@ -60,7 +60,7 @@ max-width:20%;
 		</td>
 			<td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
-<a href=/malay-session" style="float:right;">Back</a>
+<a href="/malay-session" style="float:right;">Back</a>
 </td>
     </tr>
 </table>
