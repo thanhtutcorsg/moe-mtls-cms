@@ -48,7 +48,7 @@ max-width:100%;
 	    font-size: 18px;
     font-family: KaiTi;
     background-color: #fa0;
-    padding: 13px 13px;
+    padding: 1px 13px;
     border-radius: 6px;
     text-align: center;
     display: block;
