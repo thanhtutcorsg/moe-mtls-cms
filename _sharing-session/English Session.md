@@ -25,9 +25,6 @@ margin-bottom:0rem;
 text-decoration:none;
 }
 @media only screen and (max-width: 600px) {
-  body {
-   width:100%
-  }
 	.btn1 {
 	  width:74%
 	}
