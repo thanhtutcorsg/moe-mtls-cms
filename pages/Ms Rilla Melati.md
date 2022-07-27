@@ -43,7 +43,7 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
-	@media only screen and (max-width: 600px) { 
+@media only screen and (max-width: 600px){ 
 	.btn1,.btn2{
 	    font-size: 18px;
     font-family: KaiTi;
