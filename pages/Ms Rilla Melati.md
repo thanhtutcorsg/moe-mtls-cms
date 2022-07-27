@@ -43,6 +43,9 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	.sp2 img {
+	width:20%;
+	}
 </style>
 </head>
 <body>
