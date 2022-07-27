@@ -68,7 +68,7 @@ max-width:20%;
 <div class="video-container">
 <iframe width="800" height="500" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-</div><br>
+</div>
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
