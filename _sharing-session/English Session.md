@@ -28,6 +28,9 @@ text-decoration:none;
   body {
    width:100%
   }
+	.btn1 {
+	  width:74%
+	}
 }
 </style>
 </head>
