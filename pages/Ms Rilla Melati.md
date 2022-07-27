@@ -43,6 +43,18 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	@media only screen and (max-width: 600px) { 
+	.btn1,.btn2{
+	    font-size: 18px;
+    font-family: KaiTi;
+    background-color: #fa0;
+    padding: 13px 13px;
+    border-radius: 6px;
+    text-align: center;
+    display: block;
+   margin-left: -6px;
+	}
+	}
 </style>
 </head>
 <body>
