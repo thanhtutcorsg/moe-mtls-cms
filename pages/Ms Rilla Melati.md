@@ -34,9 +34,6 @@ description: ""
    margin-left: -6px;
 	  padding: 1px 8px;
 	}
-	body{
-	width:100%;
-	}
 	iframe {
 width:350%;
 	}
