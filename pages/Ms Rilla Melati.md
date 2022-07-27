@@ -43,9 +43,6 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
-	.elimg img {
-	width:20%;
-	}
 </style>
 </head>
 <body>
@@ -74,7 +71,7 @@ max-width:100%;
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="elimg">
-    <img src="/images/EL-Leher Singh.png" style="width:100%" />
+    <img src="/images/EL-Leher Singh.png" style="width:20%" />
    </div>
       <p> <strong> A/P  Leher Singh</strong>
 </p>
