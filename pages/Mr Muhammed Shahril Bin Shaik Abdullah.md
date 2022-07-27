@@ -50,13 +50,16 @@ max-width:20%;
 </head>
 <body>
 	<img src="/images/mtls2021_challenge_cl.jpg" /><br /><br />
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 50%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 50%;">
-<a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+  text-align: left;padding: 8px;width: 43%;">
+			<a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+		</td>
+			<td  style="border: none;
+  text-align: left;padding: 25px;width: 20%;">
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/华文视频/" style="float:right;">Back</a>
 </td>
     </tr>
