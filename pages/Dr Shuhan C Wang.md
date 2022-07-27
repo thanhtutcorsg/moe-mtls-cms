@@ -41,7 +41,7 @@ text-decoration:none;
 }
   img {
 height:auto;
-max-width:20%;
+max-width:100%;
 }
 </style>
 </head>
@@ -70,8 +70,8 @@ max-width:20%;
 </iframe>
 </div>
 *Video is best viewed in 1080p.<br />
-    <div class="mlimg">
-    <img src="/images/EL-Leher Singh.png" style="width:100%" />
+    <div class="elimg">
+    <img src="/images/EL-Leher Singh.png" style="width:20%" />
    </div>
       <p> <strong> A/P  Leher Singh</strong>
 </p>
