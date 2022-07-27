@@ -24,11 +24,15 @@ background-color: lightgrey;!important;
 margin-bottom:0rem;
 text-decoration:none;
 }
+@media only screen and (max-width: 600px) {
+  body {
+   width:74%
+  }
+}
 </style>
 </head>
 <body>
-
-<table style="border-collapse: collapse;
+	<table style="border-collapse: collapse;
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
