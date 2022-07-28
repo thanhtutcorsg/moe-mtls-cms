@@ -32,7 +32,6 @@ text-decoration:none;
 </style>
 </head>
 <body>
-	<img src="/images/mtls2021_challenge_ml.jpg"><br><br>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
