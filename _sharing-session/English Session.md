@@ -64,10 +64,7 @@ Dr. Shuhan C. Wang<br/>
     </tr>
 </table>
 	<br/>
-	<p>Let us know how you feel about MTLS 2022!</p>
-	<br/>
-	<img src="/images/feedback.jpg">
-	<br/>
-	<img src="/images/2021-08-04_mtls_web_footer_600x250_300dpi.jpg">
+	
+	
 </body>
 </html>
