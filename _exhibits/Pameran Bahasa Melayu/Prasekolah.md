@@ -42,7 +42,7 @@ MK@Horizon<br />
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/Esplanade-Theatres-on-the-Bay-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition </a>
   </div></td>
     </tr>
@@ -59,7 +59,7 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/Lee-Kuan-Yew-Fund-for-Bilingualism-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -74,7 +74,7 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/Mediacorp-TV-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition </a>
   </div></td>
     </tr>
@@ -88,7 +88,7 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
