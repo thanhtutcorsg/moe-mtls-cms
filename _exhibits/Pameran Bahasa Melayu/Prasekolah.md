@@ -33,11 +33,10 @@ text-decoration:none;
 </style>
 </head>
 <body>
-
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
+    <td style="border: none; width: 70%;font-size:20px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
 MK@Horizon<br />
  </td>
     <td style="border: none;
@@ -52,7 +51,7 @@ MK@Horizon<br />
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;
+    <td style="border: none; width: 70%;font-size:20px;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Saya Wira/Wirawati Budaya!’ 
   <br />
 MK@Wellington
@@ -69,7 +68,7 @@ MK@Wellington
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;
+    <td style="border: none; width: 70%;font-size:20px;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi  Melalui Kitar Semula <br/>
 	PCF Sparkletots @ Boon Lay 631 (KN)</td>
     <td style="border: none;
@@ -84,8 +83,7 @@ MK@Wellington
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;font-size:25px;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu<br />
+    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu<br />
 		M.Y World @ Punggol Edge</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
