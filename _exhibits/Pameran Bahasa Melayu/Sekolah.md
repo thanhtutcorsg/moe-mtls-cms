@@ -37,7 +37,7 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lihat-Fikir-Tutur<br />
+    <td style="border: none; width: 70%;font-size:20px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lihat-Fikir-Tutur<br />
 Waterway Primary School<br />
  </td>
     <td style="border: none;
@@ -52,7 +52,7 @@ Waterway Primary School<br />
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;
+    <td style="border: none; width: 70%;font-size:20px;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Memperkaya Kosa Kata melalui Lagu Kanak-kanak (P1/P2)
   <br />
 Junyuan Primary School
@@ -69,8 +69,7 @@ Junyuan Primary School
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Katakanlah, Dengarkanlah, Percayalah!’<br/>
+    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Katakanlah, Dengarkanlah, Percayalah!’<br/>
 	St. Joseph’s Institution Junior</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -84,8 +83,7 @@ Junyuan Primary School
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:25px;font-size:25px;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Strategi  mempertingkat
+    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Strategi  mempertingkat
 kemahiran berbahasa  secara kritikal dan kreatif  melalui   JAMPI, CINTA & KASIH (JCK)<br />
 		Meridian Sec School</td>
     <td style="border: none;
