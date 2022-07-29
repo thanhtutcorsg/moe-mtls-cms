@@ -42,7 +42,7 @@ Esplanade - Theatres on the Bay<br />
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/Esplanade-Theatres-on-the-Bay-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-Esplanade-Theatres-on-the-Bay-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition </a>
   </div></td>
     </tr>
@@ -58,7 +58,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/Lee-Kuan-Yew-Fund-for-Bilingualism-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-Lee-Kuan-Yew-Fund-for-Bilingualism-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -72,7 +72,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/Mediacorp-TV-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-Mediacorp-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition </a>
   </div></td>
     </tr>
@@ -86,7 +86,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-National-Heritage-Board-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -100,7 +100,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-National-Institute-of-Education-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -114,7 +114,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-National-Library-Board-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -129,7 +129,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-Berita-Harian-Gen-G-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -144,7 +144,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-Mandai-Wildlife-Reserve-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -159,7 +159,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-PA-MESRA-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -174,7 +174,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ML-Language-Centre-of-Singapore-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
@@ -189,7 +189,7 @@ Lee Kuan Yew Fund for Bilingualism
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/National-Heritage-Board-synopses" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/Malay-Language-Learning-Promotion-Committee-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
