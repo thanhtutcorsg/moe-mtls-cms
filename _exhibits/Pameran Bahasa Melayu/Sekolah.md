@@ -59,7 +59,7 @@ Junyuan Primary School
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href=/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">introduction</a>
+ <a href="/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">introduction</a>
   <a href="#" class="btn2" style="color:#fff;">exhibition</a>
   </div></td>
     </tr>
