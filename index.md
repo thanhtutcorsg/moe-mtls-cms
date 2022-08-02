@@ -10,10 +10,10 @@ sections:
       background: /images/Hero Banner 1920x720.jpg
       key_highlights:
         - title: Exhibits
-          description: Important highlight A is important
+          description: ""
           url: /exhibits/overview/overview
         - title: Register Now
-          description: Important highlight B is equally important
+          description: ""
           url: /register-now
   - infobar:
       title: Infobar title
