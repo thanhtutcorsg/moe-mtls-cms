@@ -32,6 +32,7 @@ text-decoration:none;
 </style>
 </head>
 <body>
+<h5><u>Sharing Sessions</u></h5>
 	<table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -47,7 +48,7 @@ Ms Rilla Melati<br/>
 </td>
     </tr>
 </table>
-<br/>
+<h5><u>Pre-Recorded Sessions</u></h5>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -63,8 +64,5 @@ Dr. Shuhan C. Wang<br/>
 </td>
     </tr>
 </table>
-	<br/>
-	
-	
-</body>
+	</body>
 </html>
