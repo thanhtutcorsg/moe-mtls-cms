@@ -2,6 +2,7 @@ collections:
   sharing-session:
     output: true
     order:
+      - Example Title.md
       - English Session.md
       - 华文视频.md
       - Video Bahasa Melayu.md
