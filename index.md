@@ -15,9 +15,6 @@ sections:
         - title: Register Now
           description: Important highlight B is equally important
           url: /register-now
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: HIGHLIGHTS
