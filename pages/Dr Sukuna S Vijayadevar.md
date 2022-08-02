@@ -63,10 +63,10 @@ text-decoration:none;
 }
    .tlimg img {
 height:auto;
-max-width:20%;
+max-width:30%;
 }
   .tlbanner img{
-  width:100%;
+  width: 100%;
   }
 </style>
 </head>
