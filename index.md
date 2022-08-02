@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Hero Banner 1920x720.jpg
       key_highlights:
-        - title: Highlight A
+        - title: Exhibits
           description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
+          url: /exhibits/overview/overview
+        - title: Register Now
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: /register-now
         - title: Page A
           description: Page A is important too
           url: /privacy/
