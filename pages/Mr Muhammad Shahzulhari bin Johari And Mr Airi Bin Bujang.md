@@ -64,7 +64,7 @@ text-decoration:none;
 }
    .mlimg img {
 height:auto;
-max-width:20%;
+max-width:30%;
 }
   .mlbanner img{
   width:100%;
@@ -72,14 +72,13 @@ max-width:20%;
 </style>
 </head>
 <body>
-	<img src="/images/mtls2021_challenge_ml.jpg" /><br /><br />
-<table style="border-collapse: collapse; width: 100%;">
+<table>
   <tr>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
 		</td>
 			<td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
@@ -102,9 +101,9 @@ max-width:20%;
    </div>
      <p><strong>Mdm Nurashikin Jasni</strong><br />
  </p>
-<h4 style="color:#a3c864;">Profil</h4> 
+<h4 id="C1" style="color:#a3c864;">Profil</h4> 
        <p>Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J, pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz". Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran.</p>
-        <h4 style="color:#a3c864;">Sinopsis</h4> 
+			<h4 id="C2" style="color:#a3c864;">Sinopsis</h4> 
       <h4 style="color:#a3c864;">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak</h4>
       <p> Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar membaca dan penyokong kegiatan membaca, telah mendedahkan anak-anak beliau kepada pelbagai genre buku cerita bahasa Melayu termasuklah buku yang ditulis dalam bahasa Indonesia. Beliau meluangkan masa sekurang-kurangnya tiga kali seminggu untuk membacakan buku bahasa Melayu kepada anak-anak beliau sebelum mereka tidur. Beliau percaya bahawa membaca dapat memperluas kosa kata mereka. Melalui sesi ini, Puan Nura J akan berkongsi cara mudah beliau menyediakan persekitaran yang menyeronokkan bagi anak-anak beliau belajar dan menggunakan bahasa Melayu.
 </p>
