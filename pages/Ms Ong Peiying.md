@@ -63,7 +63,7 @@ text-decoration:none;
 }
   .climg img {
 height:auto;
-max-width:20%;
+max-width:30%;
 }
   .sp2 img{
   width:100%;
@@ -71,8 +71,7 @@ max-width:20%;
 </style>
 </head>
 <body>
-	<img src="/images/mtls2021_challenge_cl.jpg" /><br /><br />
-<table style="border-collapse: collapse; width: 100%;">
+	<table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
