@@ -9,7 +9,6 @@ description: ""
 * {
   box-sizing: border-box;
 }
-
 .column {
   float: left;
   width: 25%;
@@ -49,19 +48,23 @@ background-color:#3366ff;
 These are sessions available for pre-registration. Click on each category to find out more!</p>
 		<div class="row">
   <div class="column">
-  <p>For Educators</p>
+  <p style="background-color: lightgoldenrodyellow;
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Educators</p>
   <a href="reg.biz/Registration/eventreg?event=MTLS2022HSS"><button class="button button1">Live Sharing <br/>Sessions</button></a>
   </div>
   <div class="column">
-  <p>For Parents</p>
+  <p style="background-color: lightgoldenrodyellow;
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Parents</p>
  <a href="event-reg.biz/Registration/eventreg?event=MTLS2022IW">  <button class="button button1">Interactive<br/> Workshop</button></a>
   </div>
   <div class="column"> 
-  <p>For Children</p> 
+  <p style="background-color: lightgoldenrodyellow;
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Children</p> 
 <a href="event-reg.biz/Registration/eventreg?event=MTLS2022STS"> <button class="button button5">Story telling <br/>session</button></a>
   </div>
   <div class="column">
-  <p>For Children</p>
+  <p style="background-color: lightgoldenrodyellow;
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Children</p>
   <a href="event-reg.biz/Registration/eventreg?event=MTLS2022ES"> <button class="button button5">Engagement <br/>sessopms</button></a>
   </div> 
  </div>
