@@ -49,22 +49,22 @@ These are sessions available for pre-registration. Click on each category to fin
 		<div class="row">
   <div class="column">
   <p style="background-color: lightgoldenrodyellow;
-width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Educators</p>
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;"><strong>For Educators</strong></p>
   <a href="reg.biz/Registration/eventreg?event=MTLS2022HSS"><button class="button button1">Live Sharing <br/>Sessions</button></a>
   </div>
   <div class="column">
   <p style="background-color: lightgoldenrodyellow;
-width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Parents</p>
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;"><strong>For Parents</strong></p>
  <a href="event-reg.biz/Registration/eventreg?event=MTLS2022IW">  <button class="button button1">Interactive<br/> Workshop</button></a>
   </div>
   <div class="column"> 
   <p style="background-color: lightgoldenrodyellow;
-width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Children</p> 
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;"><strong>For Children</strong></p> 
 <a href="event-reg.biz/Registration/eventreg?event=MTLS2022STS"> <button class="button button5">Story telling <br/>session</button></a>
   </div>
   <div class="column">
   <p style="background-color: lightgoldenrodyellow;
-width: 45%;font-size: 14px;font-family:Lato,sans-serif;">For Children</p>
+width: 45%;font-size: 14px;font-family:Lato,sans-serif;"><strong>For Children</strong></p>
   <a href="event-reg.biz/Registration/eventreg?event=MTLS2022ES"> <button class="button button5">Engagement <br/>sessopms</button></a>
   </div> 
  </div>
