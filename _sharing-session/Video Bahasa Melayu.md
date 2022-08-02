@@ -32,37 +32,7 @@ text-decoration:none;
 </style>
 </head>
 <body>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tr>
-    <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Livestreamed Storytelling Session in Malay Language<br/>
-  [Storytelling session (For K1 – P2 students)from 1.00pm to 2.00pm ]<br/>
-   Mr Muhammed Shahril Bin Shaik Abdullah<br/>
-		Associate Librarian, Malay Language
-National Library Board  </td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;">
-<a href="/Mr-Muhammed-Shahril-Bin-Shaik-Abdullah" class="btn1" style="color:#fff;">Watch Here!</a>
-</td>
-    </tr>
-</table>
-<br/>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tr>
-    <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Introducing Malay Literacy to Early Learners Through Stories<br/>
-  [ Virtual Workshop (For Parent-Child) from 2.30pm to 3.30pm ]<br/>
-Ms Nurain Syakirah binte Nordin <br/>
-		Founder of The Bambini Sg</td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;">
-<a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;">Watch Here!</a>
- </td>
-    </tr>
-</table>
-<br/>
+<h5><u>Sharing Sessions</u></h5>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -81,7 +51,38 @@ Ms Fiza O <br/>
 </td>
     </tr>
 </table>
-<br/>
+<h5><u>Stroytelling Sessions</u></h5>
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Livestreamed Storytelling Session in Malay Language<br/>
+  [Storytelling session (For K1 – P2 students)from 1.00pm to 2.00pm ]<br/>
+   Mr Muhammed Shahril Bin Shaik Abdullah<br/>
+		Associate Librarian, Malay Language
+National Library Board  </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;">
+<a href="/Mr-Muhammed-Shahril-Bin-Shaik-Abdullah" class="btn1" style="color:#fff;">Watch Here!</a>
+</td>
+    </tr>
+</table>
+<h5><u>Interactive Workshops</u></h5>
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Introducing Malay Literacy to Early Learners Through Stories<br/>
+  [ Virtual Workshop (For Parent-Child) from 2.30pm to 3.30pm ]<br/>
+Ms Nurain Syakirah binte Nordin <br/>
+		Founder of The Bambini Sg</td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;">
+<a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;">Watch Here!</a>
+ </td>
+    </tr>
+</table>
+<h5><u>Engagement Sessions</u></h5>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -103,7 +104,7 @@ Changkat Changi Secondary School
  </td>
     </tr>
 </table>
-<br/>
+<h5><u>Pre-Recorded Sessions</u></h5>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
