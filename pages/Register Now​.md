@@ -23,7 +23,7 @@ background-color:#b3c4ff;
   text-decoration: none;
   display: inline-block;
   font-size: 10px;
-  margin: 4px 10px;
+  margin: 4px -3px;
   cursor: pointer;
 }
 .button5 {
@@ -35,7 +35,7 @@ background-color:#3366ff;
   text-decoration: none;
   display: inline-block;
   font-size: 10px;
-  margin: 4px 10px;
+  margin: 4px -3px;
   cursor: pointer;
 }
 .button5, .button1 {
