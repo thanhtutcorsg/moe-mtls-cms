@@ -3,8 +3,6 @@ title: Outstanding Preschool Mother Tongue Language Teacher Award
 permalink: /OPMTL-Award
 description: ""
 ---
-
-
 <html>
 	<style>
 		.btntop {
@@ -25,6 +23,13 @@ description: ""
     float: left;
     width: 33.33%;
     padding: 5px;
+}
+		@media only screen and (max-width: 800px) {
+  .column {
+    float: left;
+    width: 100%;
+    padding: 5px;
+  }
 }
 	</style>
 <h5><strong>Outstanding Award Winners </strong></h5>
