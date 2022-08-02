@@ -63,7 +63,7 @@ text-decoration:none;
 }
    .tlimg img {
 height:auto;
-max-width:20%;
+max-width:3%;
 }
   .tlbanner img{
   width:100%;
@@ -71,14 +71,13 @@ max-width:20%;
 </style>
 </head>
 <body>
-	<img src="/images/mtls2021_mtlchallenge_tl.jpg"><br /><br />
-<table style="border-collapse: collapse; width: 100%;">
+	<table>
   <tr>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#" class="btn2" style="color:#fff;">View Synopsis here! </a>
+			<a href="#C2" class="btn2" style="color:#fff;">View Synopsis here! </a>
 		</td>
 			<td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
@@ -101,11 +100,11 @@ max-width:20%;
    </div>
     <p><strong>Ms Bharathi Rani Arunachalam</strong><br />
    </p>
-    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
+    <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">
   குமாரி பாரதி நீ ஆன் பலதுறைக் கல்லூரியில் மனிதநேயம் மற்றும் சமூக அறிவியல் பிரிவில் விரிவுரையாளராகப்  பணியாற்றிவருகிறார். இவர் ஆங்கிலத்திலும் தமிழிலும் வகுப்புகள் நடத்திவருகிறார். இவர் ஊடகத் துறையில் பல ஆண்டுகள் பணியாற்றிய அனுபவமிக்கவர். இவர் நன்யாங் தொழில்நுட்பப் பல்கலைக்கழகத்தில் தகவல் தொடர்புத் துறையில் முதுகலைப் பட்டம்பெற்றுள்ளார். 
 </p>
-<h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
+<h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
      
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">பிள்ளைகள் வீட்டிலும் பள்ளியிலும் தாய்மொழியில் உரையாடுவதை ஊக்குவிப்போம்! </h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;">
