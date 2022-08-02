@@ -68,8 +68,7 @@ max-width:100%;
 </style>
 </head>
 <body>
-	<img src="/images/mtls2021_challenge_cl.jpg" /><br /><br />
-<table style="border-collapse: collapse; width: 100%;">
+<table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
@@ -93,7 +92,7 @@ max-width:100%;
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="elimg">
-    <img src="/images/EL-Leher Singh.png" style="width:20%" />
+    <img src="/images/EL-Leher Singh.png" style="width:30%" />
    </div>
       <p> <strong> A/P  Leher Singh</strong>
 </p>
