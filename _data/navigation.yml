@@ -28,12 +28,12 @@ links:
         url: /exhibits/tmail-exhibitions-a/tl-overview
   - title: OPMTL TEACHER AWARD
     url: /OPMTL-Award
-  - title: ONLINE QUEST
-    url: /online-quest
-  - title: OTHERS
-    url: /others
+  - title: Activities
+    url: /activities
     sublinks:
-      - title: " MTL Challenge"
-        url: /MTL-Challenge
-      - title: Books
+      - title: Online Quest
+        url: /online-quest
+      - title: Explore@MTLS Activity Package​
         url: https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls
+  - title: Books
+    url: https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls
