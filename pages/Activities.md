@@ -50,9 +50,11 @@ description: ""
    margin-left: -6px;
 	  padding: 1px 8px;
 	}
+	}
+	@media only screen and (max-width: 600px){ 
 		.btn1{
    margin-left: -6px;
-	  padding: 15%:
+	  padding: 15%;
 	}
 	}
  .btn1:hover {
