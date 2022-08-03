@@ -16,32 +16,32 @@ sections:
           description: ""
           url: /register-now
   - infobar:
-      title: Infobar title
+      title: Opening Ceremony
       subtitle: Opening Ceremony
       description: About a sentence worth of description here
       button: Opening Ceremony
       url: /opening-ceremony
   - infobar:
-      title: Infobar Title
+      title: Sharing Session
       subtitle: Infobar Subtitle
       description: Infobar description
-      button: Shating Session
+      button: Sharing Session
       url: /english-session
   - infopic:
-      title: Infopic Title
+      title: Interactive Workshops
       subtitle: Interactive Workshops
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
+      title: " Engagement Sessions​"
       subtitle: " Engagement Sessions​"
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: " Storytelling Sessions"
+      title: Storytelling Sessions
+      subtitle: Storytelling Sessions
       description: Infopic description
       button: Button Text
       alt: Image alt text
