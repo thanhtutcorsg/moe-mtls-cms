@@ -70,7 +70,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 43%;"> <a href="/online-quest" class="btn1" style="color:#fff;">Online Quest</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls" class="btn2" style="color:#fff;">Explore@MTLS Activity Package </a>
+			<a href="https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls" target="_blank" class="btn2" style="color:#fff;">Explore@MTLS Activity Package </a>
 		</td>
 </tr>
 </table>
