@@ -18,8 +18,8 @@ sections:
   - infobar:
       title: Opening Ceremony
       subtitle: Opening Ceremony
-      description: About a sentence worth of description here
-      button: Opening Ceremony
+      description: Watch the Opening Ceremony here!
+      button: Watch here
       url: /opening-ceremony
   - infobar:
       title: Sharing Session
