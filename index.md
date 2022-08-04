@@ -10,10 +10,10 @@ sections:
       background: /images/Hero Banner 1920x720.jpg
       key_highlights:
         - title: Exhibits
-          description: ""
+          description: View all Exhibits here!
           url: /exhibits/overview/overview
-        - title: Register Now
-          description: ""
+        - title: Register Now!
+          description: Register for our Sessions!
           url: /register-now
   - infopic:
       title: Opening Ceremony
