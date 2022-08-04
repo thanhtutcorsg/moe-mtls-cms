@@ -15,6 +15,13 @@ sections:
         - title: Register Now
           description: ""
           url: /register-now
+  - infopic:
+      title: Opening Ceremony
+      subtitle: Opening Ceremony
+      description: Watch the Opening Ceremony Now!
+      button: Watch here!
+      url: /opening-ceremony
+      alt: Image alt text
   - infobar:
       title: Opening Ceremony
       subtitle: Opening Ceremony
