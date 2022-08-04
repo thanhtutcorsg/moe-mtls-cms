@@ -22,9 +22,9 @@ sections:
       button: Watch here
       url: /opening-ceremony
   - infobar:
-      title: Sharing Session
-      subtitle: Infobar Subtitle
-      description: Infobar description
+      title: Sharing Sessions
+      subtitle: Sharing Sessions
+      description: Learn from our speakers here!
       button: Sharing Session
       url: /english-session
   - infopic:
@@ -44,5 +44,12 @@ sections:
       subtitle: Storytelling Sessions
       description: Infopic description
       button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Online Quest & Explore@MTLS
+      subtitle: Explore with our mascots!
+      description: Win Prizes!
+      button: Scan the QR Code or click here!
+      url: /activities
       alt: Image alt text
 ---
