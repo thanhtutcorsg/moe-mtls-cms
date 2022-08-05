@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Get in touch with MTLS
+agency_name: MTLS
 locations:
   - address:
       - Ministry of Education
