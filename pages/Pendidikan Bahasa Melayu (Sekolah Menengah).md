@@ -17,6 +17,11 @@ width:100%;
   width: 50%;
   padding: 5px;
 }
+	   @media only screen and (max-width: 600px) {
+ .column  {
+    width: 100%;
+  }
+}
 }
 .columnimg1 {
   float: left;
