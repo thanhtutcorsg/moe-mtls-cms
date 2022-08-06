@@ -24,39 +24,51 @@ sections:
   - infopic:
       title: Sharing Sessions
       subtitle: For educators and parents
-      description: Watch them here!
-      button: HERE!!!!!!
+      description: Join our speakers as they share strategies and resources to help
+        make the teaching and learning of our Mother Tongue Languages joyful for
+        our children!
+      button: Watch here
       url: /sharing session
       alt: Image alt text
   - infopic:
       title: " Engagement Sessions​"
       subtitle: for children
-      description: Describe me. Tell me more.
-      button: Button Text
+      description: "Let your child explore and discover new skills in learning MTL in
+        a fun and engaging way online! "
+      button: Register here to secure a place for your child!
       alt: Image alt text
+      url: register-now
   - infopic:
       title: Storytelling Sessions
       subtitle: For children
-      description: Infopic description
-      button: Button Text
+      description: "Join our librarians from NLB in an engaging and interactive online
+        Storytelling Session. "
+      button: Register here to secure a place for your child!
       alt: Image alt text
+      url: register-now
   - infopic:
       title: Interactive Workshops
       subtitle: parent-child activity
-      description: Infopic description
-      button: Button Text
+      description: Bond with your child through hands-on activities at our online
+        Interactive Workshops.
+      button: Register here to secure your place!
       alt: Image alt text
+      url: register-now
   - infopic:
       title: Online Quest
       subtitle: Help our mascots out!
-      description: Join our mascots on a joyful journey of discovery!
+      description: Join our mascots Xiao Tao, Sani, Kavin and Peppy at the MTLS Joyful
+        Garden!  Help them complete various tasks to keep the garden
+        flourishing!
       button: Scan the QR Code or click here!
       url: /activities
       alt: Image alt text
   - infopic:
       title: Explore@MTLS
       subtitle: A fun-filled activity package!
-      description: Have fun exploring in MTL!
+      description: Unleash your child’s creativity and critical thinking by
+        downloading this fun-filled learning package! Have a chance to redeem a
+        limited-edition MTLS souvenir!
       button: Explore here
       url: mtl-challenge
       alt: Image alt text
