@@ -21,12 +21,6 @@ sections:
       description: Watch the Opening Ceremony here!
       button: Watch here
       url: /opening-ceremony
-  - infobar:
-      title: Sharing Sessions
-      subtitle: Sharing Sessions
-      description: Learn from our speakers here!
-      button: Sharing Session
-      url: /english-session
   - infopic:
       title: Sharing Sessions
       subtitle: For educators and parents
