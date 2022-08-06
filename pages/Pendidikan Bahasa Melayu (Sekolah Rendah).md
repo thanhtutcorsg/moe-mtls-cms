@@ -82,4 +82,3 @@ description: ""
 <li>Galakkan anak anda untuk terus mencuba jika menghadapi kepayahan.  </li>
 <li>Permainan yang disarankan dapat mengeratkan hubungan antara anak dengan ibu bapa.</li>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-</html>
