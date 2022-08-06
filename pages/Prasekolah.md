@@ -3,7 +3,7 @@ title: Prasekolah
 permalink: /ml-presch
 description: ""
 ---
- <html>
+<html>
   <style>
     .dot {
   height: 10px;
@@ -29,6 +29,10 @@ description: ""
 img{
    width: 100%;
  }
+ iframe{
+border : 0;
+width:80% ;
+}
   </style>
   <body>
   <a href="/exhibits/melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
