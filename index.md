@@ -29,26 +29,26 @@ sections:
       url: /english-session
   - infopic:
       title: Sharing Sessions
-      subtitle: Sharing Sessions
+      subtitle: For educators and parents
       description: Watch them here!
       button: HERE!!!!!!
       url: /sharing session
       alt: Image alt text
   - infopic:
-      title: Interactive Workshops
-      subtitle: Interactive Workshops
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: " Engagement Sessions​"
-      subtitle: " Engagement Sessions​"
+      subtitle: for children
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infopic:
       title: Storytelling Sessions
-      subtitle: Storytelling Sessions
+      subtitle: For children
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Interactive Workshops
+      subtitle: parent-child activity
       description: Infopic description
       button: Button Text
       alt: Image alt text
