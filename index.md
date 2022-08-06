@@ -47,10 +47,17 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Online Quest & Explore@MTLS
-      subtitle: Explore with our mascots!
-      description: Win Prizes!
+      title: Online Quest
+      subtitle: Help our mascots out!
+      description: Join out mascots on a joyful journey of discovery!
       button: Scan the QR Code or click here!
       url: /activities
+      alt: Image alt text
+  - infopic:
+      title: Explore@MTLS
+      subtitle: A fun-filled activity package!
+      description: Have fun exploring in MTL!
+      button: Explore here
+      url: mtl-challenge
       alt: Image alt text
 ---
