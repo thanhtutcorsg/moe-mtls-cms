@@ -49,7 +49,7 @@ sections:
   - infopic:
       title: Online Quest
       subtitle: Help our mascots out!
-      description: Join out mascots on a joyful journey of discovery!
+      description: Join our mascots on a joyful journey of discovery!
       button: Scan the QR Code or click here!
       url: /activities
       alt: Image alt text
