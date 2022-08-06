@@ -29,6 +29,9 @@ description: ""
 img{
    width: 100%;
  }
+		iframe {
+		width:100%;
+		}
   </style>
   <body>
   <a href="/exhibits/melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
