@@ -2,7 +2,7 @@ collections:
   sharing-session:
     output: true
     order:
-      - English Session.md
+      - English Videos.md
       - 华文视频.md
       - Video Bahasa Melayu.md
       - தமிழ் ஒளிக்காட்சிகள்.md
