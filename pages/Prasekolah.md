@@ -49,9 +49,9 @@ img{
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" title="MOE Kindergarten – Where Every Space is A Learning Space" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 <p style="text-align:justify;">Yang berikut merupakan dua program utama Tadika MOE:
-<h4 style="text-align:justify;"><span class="dot"> </span> <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light " target="_blank;">Program Hi-Light </a> </h4>
+<h4 style="text-align:justify;"><span class="dot"> </span> &nbsp;&nbsp;&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light " target="_blank;">Program Hi-Light </a> </h4>
 <p style="text-align:justify;">Program Hi-Light menyokong pembangunan kanak-kanak  secara holistik melalui pendekatan bersepadu dalam pembelajaran.  Program tersebut dirancang secara menyeluruh untuk membantu kanak-kanak memahami dunia di sekeliling mereka. Perkara ini dilakukan agar dapat menimbulkan keseronokan dan minat untuk belajar dalam diri kanak-kanak.</p>
-<h4 style="text-align:justify;"><span class="dot"> </span> <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight " target="_blank;">Program Literasi Bintang Kecil</a></h4>
+<h4 style="text-align:justify;"><span class="dot"> </span> &nbsp;&nbsp;&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight " target="_blank;">Program Literasi Bintang Kecil</a></h4>
 <p style="text-align:justify;">Program Literasi Bintang Kecil merangkumi Program Literasi Bintang Kecil Bahasa Inggeris dan Bahasa Ibunda. Program ini dibina dengan harapan dapat memupuk keupayaan awal kanak-kanak berdwibahasa. </p>
 <p style="text-align:justify;">Program ini ditawarkan untuk memberikan peluang kepada kanak-kanak untuk menikmati bahasa, berkomunikasi dengan yakin dan menyedari adat dan budaya tempatan. Perkara ini dapat dicapai dengan menyediakan pengajaran dan pembelajaran bahasa yang menyeronokkan kepada kanak-kanak melalui penerokaan bahan-bahan, seperti Buku Besar, lagu dan permainan berdasarkan konteks tempatan. Program ini juga memberikan peluang kepada ahli keluarga untuk turut terlibat dalam pembelajaran kanak-kanak.</p>
 <p style="text-align:justify;">Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa pada masa hadapan.</p>
@@ -74,7 +74,7 @@ img{
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_3.jpg">
 <br>
 <p>Yang berikut merupakan contoh-contoh projek MuM yang terdapat di <a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti" target="_blank"><u>Portal NEL.</u></a></p>
-<li><a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!" Tadika MOE (Sengkang Green)</a></a></li>
+<li><a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!" Tadika MOE (Sengkang Green)</a></li>
 <li><a href=" https://www.nel.moe.edu.sg/qql/slot/u575/2019-04%20Uploads/2019-03-11%20-%20NEL_ML_MK@WW_Haslilah.pdf" target="_blank">"Kucing Dina" Tadika MOE (Westwood)</a></li>
 <li><a href="https://www.nel.moe.edu.sg/qql/slot/u568/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Punggol-V....pdf" target="_blank">“Menjaga Alam Sekitar”  Tadika MOE (Punggol View)</a></li>
 <p>Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">lelaman </a> ini.</p>
@@ -83,13 +83,13 @@ img{
 <p style="text-align:justify">Ibu bapa boleh menyokong pembelajaran dan pembangunan bahasa Melayu anak anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak anda dalam permainan dan penerokaan. Selain memupuk interaksi yang berkualiti dengan anak anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan.
 </p>
 <p style="text-align:justify;">Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.</p>
-<p> <span class="dot"></span>Siapakah Saya?</p>
+<p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Siapakah Saya?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_4.jpg"><br>
-<p> <span class="dot"></span>Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?</p>
+<p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_4.jpg"><br>
-<p> <span class="dot"></span>Dengan Siapakah Saya Berkongsi Dunia ini?</p>
+<p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Dengan Siapakah Saya Berkongsi Dunia ini?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_6.jpg"><br>
-<p> <span class="dot"></span>Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</p>
+<p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_7.jpg"><br>
 <p>  Untuk mendapatkan contoh Aktiviti Belajar Bahasa Melayu di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini.
 </p>
