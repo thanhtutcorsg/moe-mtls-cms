@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: " Engagement Sessions​"
       subtitle: for children
-      description: Infopic description
+      description: Describe me. Tell me more.
       button: Button Text
       alt: Image alt text
   - infopic:
