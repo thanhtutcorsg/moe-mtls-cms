@@ -17,6 +17,10 @@ description: ""
  .columnvideo  {
     width: 100%;
   }
+}	
+ iframe{
+border : 0;
+width:100% ;
 }
 	.btntop {
     position: fixed;
@@ -60,7 +64,7 @@ description: ""
  <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_5.jpg"><br>
  <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_6.jpg"><br>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp; Klip video yang digunakan oleh murid-murid</p>
-<div class="rowvideo">
+	<div class="rowvideo">
  <div class="columnvideo">
  <iframe src="https://www.youtube.com/embed/CMwmCr0jHd0" title="Mat Jenin" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  </div>
