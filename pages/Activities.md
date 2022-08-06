@@ -70,13 +70,17 @@ text-decoration:none;
 </style>
 </head>
 <body>
+	<h4> Come, join our Garden Guardians, Xiao Tao, Sani, Kavin and Peppy at the MTLS Joyful Garden! Help them complete various tasks to keep the garden flourishing! Click on the link below to join them now and play the game!</h4>
 	<table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="/online-quest" class="btn1" style="color:#fff;">Online Quest</a> </td>
+		<h4>Come take part in Explore@MTLS, a collection of fun and interesting activities! 
+Complete the activities to collect a minimum of 80 points and redeem a limited-edition MTLS souvenir, while stocks last!
+			</h4>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls" target="_blank" class="btn2" style="color:#fff;">Explore@MTLS Activity Package </a>
+			<a href="" target="_blank" class="btn2" style="color:#fff;">Explore@MTLS Activity Package </a>
 		</td>
 </tr>
 </table>
