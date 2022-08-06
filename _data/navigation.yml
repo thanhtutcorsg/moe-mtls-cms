@@ -4,6 +4,8 @@ links:
     url: /about-us/
   - title: OPENING CEREMONY
     url: /opening-ceremony/
+  - title: Programme
+    collection: exhibits
   - title: SHARING SESSIONS
     url: /english-session
     sublinks:
