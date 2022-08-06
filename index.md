@@ -15,13 +15,6 @@ sections:
         - title: Register Now!
           description: Register for our Sessions!
           url: /register-now
-  - infopic:
-      title: Opening Ceremony
-      subtitle: Opening Ceremony
-      description: Watch the Opening Ceremony Now!
-      button: Watch here!
-      url: /opening-ceremony
-      alt: Image alt text
   - infobar:
       title: Opening Ceremony
       subtitle: Opening Ceremony
@@ -34,6 +27,13 @@ sections:
       description: Learn from our speakers here!
       button: Sharing Session
       url: /english-session
+  - infopic:
+      title: Sharing Sessions
+      subtitle: Sharing Sessions
+      description: Watch them here!
+      button: HERE!!!!!!
+      url: /sharing session
+      alt: Image alt text
   - infopic:
       title: Interactive Workshops
       subtitle: Interactive Workshops
