@@ -22,7 +22,10 @@ width:100%;
     width: 100%;
   }
 }
-}
+	img {
+	height:auto;
+	width:80%;
+	}
 .columnimg1 {
   float: left;
   width: 50%;
