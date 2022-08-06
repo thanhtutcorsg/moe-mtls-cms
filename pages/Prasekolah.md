@@ -98,5 +98,3 @@ img{
  <li><a href="#" target="_blank">Tadika MOE @ Punggol Green </a></li>
 </ul>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-</body>
-  </html>
