@@ -106,10 +106,10 @@ background-color: lightgrey;!important;
 <h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Bahasa Ibunda Kementerian Pendidikan Singapura (MOE)</b></h2>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-  <a href="/mlmoe/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
-  <a href="/mlmoe/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Rendah</div></a>
-  <a href="/mlmoe/ML-Sec/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Menengah</div></a>
-  <a href="/mlmoe/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prauniversiti</div></a>
+  <a href="/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
+  <a href="/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Rendah</div></a>
+  <a href="/ML-Sec/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Menengah</div></a>
+  <a href="/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prauniversiti</div></a>
 </div>  <br />
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
  <h4 style="padding-top:12px;color:#a3c864;"><b>Memupuk Pelajar yang Aktif dan Pengguna yang Cekap </b></h4>
