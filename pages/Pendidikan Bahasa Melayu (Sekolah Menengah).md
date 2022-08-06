@@ -23,7 +23,6 @@ width:100%;
   width: 50%;
   padding: 5px;
 }
-
 .columnimg {
   float: left;
   width: 33.33%;
@@ -59,9 +58,9 @@ table.center {
 }
 .dot {
   height: 10px;
-  width: 10x;
+  width: 10px;
   background-color: black;
-  border-radius: 100%;
+  border-radius: 50%;
   display: inline-block;
 }
 </style>
