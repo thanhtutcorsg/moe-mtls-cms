@@ -3,7 +3,6 @@ title: Pendidikan Bahasa Melayu (Prasekolah)
 permalink: /ml-presch
 description: ""
 ---
-
 <html>
   <style>
     .dot {
@@ -90,7 +89,7 @@ img{
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Siapakah Saya?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_4.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_4.jpg"><br>
+<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_5.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Dengan Siapakah Saya Berkongsi Dunia ini?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_6.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</p>
