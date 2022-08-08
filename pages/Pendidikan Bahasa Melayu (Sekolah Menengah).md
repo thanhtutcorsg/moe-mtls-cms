@@ -242,9 +242,8 @@ table.center {
 <img src="/images/Pic-Sec-ML-24.png"><br/>
 <h4> PROGRAM DIGITAL ALTERNATIF</h4>
 <p>Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3</p>
-<img src="/images/Pic-Sec-ML-21.png"><br/>
-<img src="/images/Pic-Sec-ML-22.png"><br/>
-<img src="/images/Pic-Sec-ML-23.png"><br/>
+<img src="/images/Pic Sec ML 25.png"><br/>
+<img src="/images/Pic Sec ML 26.png"><br/>
 <h4 style="font-size:25px;color:green;"> PROGRAM-PROGRAM BAHASA MELAYU</h4>
 <p>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</p>
 <p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade </p>
