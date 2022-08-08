@@ -232,9 +232,9 @@ table.center {
 <h4>PROGRAM BERTERUSAN: KEM MLEP</h4>
 <p>Kem MLEP yang telah berlangsung pada 
 2 dan 3 Jun 2022.</p>
-<img src="/images/Pic-Sec-ML-19.png"><br>
-<img src="/images/Pic-ML-20.png"><br/>
-<img src="/images/Pic-Sec-ML-21.png"><br/>
+<img src="/images/ML Sec 1.jpg"><br>
+<img src="/images/ML Sec 2.jpg"><br/>
+<img src="/images/ML Sec 3.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: TINTA AKSARA</h4>
 <p>Penulisan pelajar Menengah 3 dan 4</p>
 <img src="/images/Pic-Sec-ML-22.png"><br/>
