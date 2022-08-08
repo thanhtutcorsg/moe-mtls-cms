@@ -142,7 +142,7 @@ table.center {
     <p style="font-weight:bold;text-align:center;">Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</p>
   </div>
   </div>
-<h4 style="font-size:25px;color:green;">BAHAN-BAHAN VIDEO KURIKULUM</h4>
+<h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
 <p>Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkukuh keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE.</p>
 <h4 style="text-align:justify;"><center>1. Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
