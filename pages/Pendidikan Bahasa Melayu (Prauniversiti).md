@@ -88,7 +88,7 @@ Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai k
     <td><img src="/images/Pic-PreUni-3.png" /></td>
    </tr>
   </table>
-  <p><span class="dot" style="text-align:center;"></span>&nbsp;&nbsp;&nbsp;    Maktab Rendah yang menawarkan MLEP</p>
+  <p style="text-align:center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Maktab Rendah yang menawarkan MLEP</p>
   Maktab Rendah yang menawarkan MLEP:
   <ul>
   	<li>Maktab Rendah Jurong Pioneer</li>
@@ -97,7 +97,7 @@ Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai k
   				<li>Maktab Rendah Tampines Meridian</li>
   					<li >Maktab Rendah Yishun Innova</li>
   </ul>
-<p><span class="dot" style="text-align:center;"></span>&nbsp;&nbsp;&nbsp;Kemasukan ke Maktab Rendah</p>
+<p style="text-align:center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;Kemasukan ke Maktab Rendah</p>
 <p>Kemasukan ke Maktab Rendah: <br/>
 Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC) <br/>
 <span class="dot"></span>&nbsp;&nbsp;Pelajar Menengah 4 atau 5 mohon ke Maktab Rendah berdasarkan pencapaian dan kecenderungan mereka sebelum keputusan peperiksaan GCE Peringkat ‘O’ diumumkan.<br/>
@@ -108,7 +108,7 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC) <br/>
 <p>Mata Bonus <br/>
 <span class="dot"></span>&nbsp;&nbsp;Pelajar yang berjaya memasuki Program MLEP-JC akan mendapat dua mata bonus untuk kemasukan ke maktab rendah yang menawarkan program ini.</p>
 <p><span class="dot" style="text-align:center;"></span>&nbsp;&nbsp;&nbsp;Biasiswa MLEP-JC (MLES)</p>
-<p><strong>Biasiswa MLEP-JC (MLES)</strong> <br/></p>
+<p style="text-align:center;"><strong>Biasiswa MLEP-JC (MLES)</strong> <br/></p>
 <li>Warganegara Singapura</li>
 <li>Cemerlang dalam keputusan akademik</li>
 <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun</li>
