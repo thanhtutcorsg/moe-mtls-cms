@@ -188,5 +188,3 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC) <br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ULUbQoGCLCI" title="MLH1 Topic 8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
 </center>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-</body>
-</html>
