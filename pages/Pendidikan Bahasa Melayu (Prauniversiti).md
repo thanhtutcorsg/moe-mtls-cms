@@ -3,7 +3,6 @@ title: Pendidikan Bahasa Melayu (Prauniversiti)
 permalink: /ml-preU
 description: ""
 ---
-<!DOCTYPE html>
 <html>
 <style>
 	* {
