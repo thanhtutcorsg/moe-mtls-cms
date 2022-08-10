@@ -30,6 +30,7 @@ sections:
       button: Watch here
       url: /sharing session
       alt: Image alt text
+      image: /images/Mascot_Banners_600x300px_1.jpg
   - infopic:
       title: " Engagement Sessions​"
       subtitle: for children
