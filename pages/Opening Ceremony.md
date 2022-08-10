@@ -35,6 +35,9 @@ description: ""
     font-weight: 600;
 }
 </style>
+
+<img src="/images/2022-08-08_Come_Back_Banner_600x300px.jpg">
+<br>
 <div class="video-container">
 <iframe class="responsive-iframe"  src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
