@@ -77,4 +77,5 @@ sections:
       button: Explore here
       url: mtl-challenge
       alt: Image alt text
+      image: /images/2022-08-08_MTL_Challenge_600x300px.jpg
 ---
