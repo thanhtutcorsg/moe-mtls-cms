@@ -184,7 +184,6 @@ table.center {
 <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah. Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu serta mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk memohon ke sekolah-sekolah EMAS:</p>
 <img src="/images/Pic-Sec-ML-8.png">
 <h4>Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah </h4>
-<p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade </p>
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program EMAS</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_SecSch_3.jpg">
 <p>Perkhemahan EMAS untuk pelajar Menengah 1</p>
@@ -252,10 +251,8 @@ table.center {
 <p><strong>CITRA</strong><br> Bahasa, sastera dan Budaya Melayu dalam pelbagai corak kehidupan negara ialah citra kita.</p>
 <p><strong> </strong><br>Kita saying akan bahasa, sastera dan budaya Melayu.</p>
 <p><a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa</a></p>
-<p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade </p>
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Taman Warisan Melayu  </p>
 <p><a href="https://www.malayheritage.gov.sg/my" target="_blank">https://www.malayheritage.gov.sg/my</a></p>
-<p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade </p>
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Muzium Negara Singapura </p>
 <p><a href="https://www.nhb.gov.sg/nationalmuseum/" target="_blank">https://www.nhb.gov.sg/nationalmuseum/</a></p>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC) </p>
@@ -273,7 +270,6 @@ table.center {
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Perpustakaan Negara Singapura <br/>
 Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.</p>
 <p><a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a></p>
-<p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade </p>
 <li> Persembahan seni dan Budaya Melayu sepanjang tahun. </li>
 <li> <span style="color: blue;">Gemadah </span>– Festival Muzik Tradisional Melayu</li>
 <li> <span style="color: blue;">Festival Muara </span> – Persembahan tarian Melayu Nusantara</li>
