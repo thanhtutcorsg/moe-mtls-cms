@@ -83,8 +83,7 @@ width:90% ;
 <table style="width:100%">
   <tr>
     <td><p>Visi MLEP-JC<br /><br />
-    Visi MLEP-JC
-Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</p></td>
+   Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</p></td>
     <td><img src="/images/Pic-PreUni-3.png" /></td>
    </tr>
   </table>
