@@ -57,6 +57,7 @@ sections:
       button: Register here to secure your place!
       alt: Image alt text
       url: register-now
+      image: /images/Mascot_Banners_600x300px_2.jpg
   - infopic:
       title: Online Quest
       subtitle: Help our mascots out!
