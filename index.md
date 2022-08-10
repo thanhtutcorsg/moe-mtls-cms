@@ -67,6 +67,7 @@ sections:
       button: Scan the QR Code or click here!
       url: /activities
       alt: Image alt text
+      image: /images/2022-08-08_Online_Quest_600x300px.jpg
   - infopic:
       title: Explore@MTLS
       subtitle: A fun-filled activity package!
