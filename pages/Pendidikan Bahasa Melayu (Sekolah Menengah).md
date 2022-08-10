@@ -249,7 +249,7 @@ table.center {
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Majlis Bahasa Melayu Singapura - Bulan Bahasa</p>
 <p><strong>CITA</strong><br> Aspirasi kita: Kita mahukan bahasa Melayu kekal relevan dalam kehidupan kita. </p>
 <p><strong>CITRA</strong><br> Bahasa, sastera dan Budaya Melayu dalam pelbagai corak kehidupan negara ialah citra kita.</p>
-<p><strong> </strong><br>Kita saying akan bahasa, sastera dan budaya Melayu.</p>
+<p><strong>CINTA </strong><br>Kita saying akan bahasa, sastera dan budaya Melayu.</p>
 <p><a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa</a></p>
 <p style="text-align:center"><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Taman Warisan Melayu  </p>
 <p><a href="https://www.malayheritage.gov.sg/my" target="_blank">https://www.malayheritage.gov.sg/my</a></p>
