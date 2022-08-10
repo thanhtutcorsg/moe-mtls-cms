@@ -251,9 +251,9 @@ table.center {
 <p><strong>CITRA</strong><br> Bahasa, sastera dan Budaya Melayu dalam pelbagai corak kehidupan negara ialah citra kita.</p>
 <p><strong> </strong><br>Kita saying akan bahasa, sastera dan budaya Melayu.</p>
 <p><a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa</a></p>
-<p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Taman Warisan Melayu  </p>
+<p style="text-align:center"><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Taman Warisan Melayu  </p>
 <p><a href="https://www.malayheritage.gov.sg/my" target="_blank">https://www.malayheritage.gov.sg/my</a></p>
-<p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Muzium Negara Singapura </p>
+<p style="text-align:center;" ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Muzium Negara Singapura </p>
 <p><a href="https://www.nhb.gov.sg/nationalmuseum/" target="_blank">https://www.nhb.gov.sg/nationalmuseum/</a></p>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC) </p>
 <ul>
