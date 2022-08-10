@@ -48,6 +48,7 @@ sections:
       button: Register here to secure a place for your child!
       alt: Image alt text
       url: register-now
+      image: /images/Mascot_Banners_600x300px_3.jpg
   - infopic:
       title: Interactive Workshops
       subtitle: parent-child activity
