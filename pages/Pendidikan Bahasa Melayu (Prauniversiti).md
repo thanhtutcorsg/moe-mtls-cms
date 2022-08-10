@@ -129,11 +129,11 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC) <br/>
 <li>Penghasilan karya kreatif dan esei oleh pelajar MLEP untuk dibukukan dalam penerbitan MOE, Saujana Pujangga </li>
 <div class="row">
  <div class="column">
-  <img src="#" /><span style="font-size:20px">To add Insert PreUni 5
+  <img src="/images/Pic-PreUni-5-min.jpg" /><span style="font-size:20px">
 </span><br />
 </div>
   <div class="column">
-  <img src="#" /><span style="font-size:20px">To add Insert PreUni 5
+  <img src="/images/Pic-PreUni-6-min.jpg" /><span style="font-size:20px">
 </span>
      <br />
 </div>
