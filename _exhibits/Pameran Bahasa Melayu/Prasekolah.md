@@ -13,7 +13,7 @@ third_nav_title: Pameran Bahasa Melayu
     padding: 3px 13px;
     margin: 9px 13px;
     border-radius: 6px;
-    width: 60%;
+    width: 64%;
   text-align: center;
 	display:block;
 	}
