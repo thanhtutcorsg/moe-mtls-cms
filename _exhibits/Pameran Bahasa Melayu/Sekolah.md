@@ -10,10 +10,10 @@ third_nav_title: Pameran Bahasa Melayu
 	font-size: 18px;
     font-family: Lato,sans-serif;
     background-color:#a3c864;
-    padding: 3px 13px;
+    padding: 5px 13px;
     margin: 9px 13px;
     border-radius: 6px;
-    width: 60%;
+    width: 64%;
   text-align: center;
 	display:block;
 	}
@@ -42,8 +42,8 @@ Waterway Primary School<br />
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Waterway-Primary-School-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition </a>
+ <a href="/ml-Waterway-Primary-School-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -59,8 +59,8 @@ Junyuan Primary School
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition</a>
+ <a href="/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -73,8 +73,8 @@ Junyuan Primary School
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-St-Joseph-Institution-Junior-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition </a>
+ <a href="/ml-St-Joseph-Institution-Junior-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -88,8 +88,8 @@ kemahiran berbahasa  secara kritikal dan kreatif  melalui   JAMPI, CINTA & KASIH
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Meridian-Sec-School-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition</a>
+ <a href="/ml-Meridian-Sec-School-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
