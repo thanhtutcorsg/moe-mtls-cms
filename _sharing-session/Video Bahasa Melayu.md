@@ -51,7 +51,7 @@ Ms Fiza O <br/>
 </td>
     </tr>
 </table>
-<h5><u>Stroytelling Sessions</u></h5>
+<h5><u>Storytelling Sessions</u></h5>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
