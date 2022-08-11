@@ -4,7 +4,6 @@ permalink: /register-now
 description: ""
 ---
 <html>
-<head>
 <style>
 * {
   box-sizing: border-box;
@@ -23,7 +22,6 @@ height:auto;
   }
 }
 </style>
-</head>
   <body>
 <p style="font-family:Lato,sans-serif; font-size:18px;text-align:center;"><strong>REGISTER NOW! </strong><br/>
 These are sessions available for pre-registration. Click on each category to find out more!</p>
