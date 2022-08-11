@@ -16,17 +16,6 @@ third_nav_title: Pameran Bahasa Melayu
     width: 64%;
 	display:block;
 	}
-	@media screen and (min-width: 600px) {
-.btn1, .btn2 {
-   font-size: 16px;
-    font-family: Lato,sans-serif;
-    background-color: #a3c864;
-    padding: 3px 13px;
-    margin: 9px 13px;
-    border-radius: 6px;
-    display:block;
-  }
-}
     	.btn-group {
 	margin-top:-15px;
 	}
