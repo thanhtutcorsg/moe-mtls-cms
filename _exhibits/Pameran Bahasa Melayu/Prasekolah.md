@@ -10,7 +10,7 @@ third_nav_title: Pameran Bahasa Melayu
 	font-size: 18px;
     font-family: Lato,sans-serif;
     background-color:#a3c864;
-    padding: 3px 13px;
+    padding: 5px 13px;
     margin: 9px 13px;
     border-radius: 6px;
     width: 64%;
