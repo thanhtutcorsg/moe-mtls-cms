@@ -9,6 +9,9 @@ description: ""
 * {
   box-sizing: border-box;
 }
+	.row {
+height:auto;
+	}
 .column {
   float: left;
   width: 25%;
