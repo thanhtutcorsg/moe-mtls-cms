@@ -32,7 +32,7 @@ text-decoration:none;
 </style>
 </head>
 <body>
-<h5><u>Sharing Sessions</u></h5>
+<h5><u>Live Sharing Session</u></h5>
 	<table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -48,7 +48,7 @@ Ms Rilla Melati
 </td>
     </tr>
 </table>
-<h5><u>Pre-Recorded Sessions</u></h5>
+<h5><u>Pre-Recorded Session</u></h5>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
