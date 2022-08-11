@@ -47,5 +47,3 @@ These are sessions available for pre-registration. Click on each category to fin
   <a href="event-reg.biz/Registration/eventreg?event=MTLS2022ES"> <img src="/images/Engagement_4.jpg"></a>
   </div> 
  </div>
-</body>
-</html>
