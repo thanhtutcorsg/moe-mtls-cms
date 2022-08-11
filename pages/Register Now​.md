@@ -14,6 +14,11 @@ description: ""
   width: 25%;
   padding: 5px;
 }
+	@media screen and (max-width: 600px) {
+  .column{
+   width:100%;
+  }
+}
 </style>
 </head>
   <body>
