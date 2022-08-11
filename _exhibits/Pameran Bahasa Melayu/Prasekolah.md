@@ -36,14 +36,14 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
+    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
 MK@Horizon<br />
  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition </a>
+ <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -59,8 +59,8 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition</a>
+ <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -74,8 +74,8 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition </a>
+ <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -88,8 +88,8 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">introduction</a>
-  <a href="#" class="btn2" style="color:#fff;">exhibition</a>
+ <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
