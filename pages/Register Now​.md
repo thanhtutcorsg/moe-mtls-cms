@@ -3,7 +3,6 @@ title: Register Now​
 permalink: /register-now
 description: ""
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
