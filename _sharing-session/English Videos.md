@@ -32,7 +32,7 @@ text-decoration:none;
 </style>
 </head>
 <body>
-<h5><u>Live Sharing Session</u></h5>
+<h5>Live Sharing Session</h5>
 	<table style="border-collapse: collapse;
   width: 100%;">
   <tr>
