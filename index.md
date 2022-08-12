@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Hero Banner 1920x720.jpg
       key_highlights:
-        - title: Exhibits
-          description: View all our exhibits here!
-          url: /exhibits/overview/overview
         - title: Register for sharing sessions
           description: Find out more here!
           url: /register-now
