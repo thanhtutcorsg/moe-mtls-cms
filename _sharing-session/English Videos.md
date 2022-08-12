@@ -7,7 +7,7 @@ description: ""
 <head>
 <style>
 	.btn1{
-	font-size: 18px;
+	font-size: 16px;
     font-family:Lato,sans-serif;
     background-color: #fa0;
     padding: 10px 13px;
@@ -37,7 +37,7 @@ text-decoration:none;
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br/>
+  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br/>
   [ Live Sharing Session from 4pm to 5pm ]<br/>
 Ms Rilla Melati
 		<br/>
@@ -53,7 +53,7 @@ Ms Rilla Melati
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br/>
+  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br/>
   [Pre-Recorded Sessions]<br/>
 Dr. Shuhan C. Wang<br/>
      </td>
