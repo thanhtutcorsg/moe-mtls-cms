@@ -7,8 +7,8 @@ description: ""
 <head>
 <style>
 	.btn1{
-	font-size: 18px;
-    font-family: KaiTi;
+	font-size: 16px;
+ font-family:Lato,sans-serif;;
     background-color: #a3c864;
     padding: 10px 13px;
     margin: -5px 13px;
