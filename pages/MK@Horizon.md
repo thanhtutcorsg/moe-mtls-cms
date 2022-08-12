@@ -3,9 +3,21 @@ title: MK@Horizon
 permalink: /MK-Horizon-synopses
 description: ""
 ---
-<p style="border: none;
-  text-align: left;width: 20%;margin-left:-100px;"><a href="/exhibits/chinese-exhibitions-c/preschool" style="float:left;">Back</a>
-  </p>
+<style>
+  .backbtn{
+   margin-left: -110px;
+   border: none;
+  text-align: left;
+  width: 20%;
+  font-family:Lato,sans-serif;
+  } 
+@media only screen and (max-width: 600px) {
+.backbtn {
+    background-color: lightblue;
+  }
+}
+</style>
+<a href="/exhibits/chinese-exhibitions-c/preschool" style="float:left;" class="backbtn">Back</a>
 <h4 style="font-size: 35px;font-family: KaiTi; padding-top:12px ;margin:10px;
 color: #d84178;">培养双语幼儿</h4>
 <p style="font-size: 20px;font-family: KaiTi;"> 教育部幼儿园的繁星课程为学生提供沉浸式学习体验，让他们在生活中学习并使用双语。</p>
