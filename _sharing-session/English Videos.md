@@ -48,7 +48,7 @@ Ms Rilla Melati
 </td>
     </tr>
 </table>
-<h4 style="font-family:Lato,sans-serif;">Pre-Recorded Session</h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Pre-Recorded Session</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
