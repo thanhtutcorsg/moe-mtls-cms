@@ -11,6 +11,7 @@ description: ""
   width: 20%;
   font-family:Lato,sans-serif;
 	font-size:14px;
+	padding:5px;
   } 
 @media only screen and (max-width: 600px) {
 .backbtn {
