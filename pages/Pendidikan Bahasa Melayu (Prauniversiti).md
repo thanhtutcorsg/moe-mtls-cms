@@ -87,8 +87,9 @@ width:90% ;
     <td><img src="/images/Pic-PreUni-3.png" /></td>
    </tr>
   </table>
-  <p style="text-align:center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Maktab Rendah yang menawarkan MLEP</p>
-  Maktab Rendah yang menawarkan MLEP:
+<h4 style="font-size:25px;color:green;">   Maktab Rendah yang menawarkan MLEP</h4>
+	   <p style="font-weight:bold;text-align:left;">Maktab Rendah yang menawarkan MLEP:</p>
+ 
   <ul>
   	<li>Maktab Rendah Jurong Pioneer</li>
   		<li>Maktab Rendah Kebangsaan</li>
@@ -96,18 +97,29 @@ width:90% ;
   				<li>Maktab Rendah Tampines Meridian</li>
   					<li >Maktab Rendah Yishun Innova</li>
   </ul>
-<p style="text-align:center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;Kemasukan ke Maktab Rendah</p>
-<p>Kemasukan ke Maktab Rendah: <br/>
-Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC) <br/>
-<span class="dot"></span>&nbsp;&nbsp;Pelajar Menengah 4 atau 5 mohon ke Maktab Rendah berdasarkan pencapaian dan kecenderungan mereka sebelum keputusan peperiksaan GCE Peringkat ‘O’ diumumkan.<br/>
-<span class="dot"></span>&nbsp;&nbsp;Permohonan dibuka pada pertengahan Mei hingga akhir Jun.</p>
-<p>Permohonan menerusi <strong>Latihan Permohonan Bersama </strong> (JAE)<br/>
-<span class="dot"></span>&nbsp;&nbsp;Pelajar memohon ke Maktab Rendah selepas keputusan peperiksaan GCE Peringkat ‘A’ diumumkan. <br/>
-<span class="dot"></span>&nbsp;&nbsp;Untuk layak, pelajar perlu menawarkan subjek H2 Bahasa dan Kesusasteraan Melayu (H2MLL) dalam permohonan mereka.</p>
-<p>Mata Bonus <br/>
-<span class="dot"></span>&nbsp;&nbsp;Pelajar yang berjaya memasuki Program MLEP-JC akan mendapat dua mata bonus untuk kemasukan ke maktab rendah yang menawarkan program ini.</p>
-<p><span class="dot" style="text-align:center;"></span>&nbsp;&nbsp;&nbsp;Biasiswa MLEP-JC (MLES)</p>
-<p style="text-align:center;"><strong>Biasiswa MLEP-JC (MLES)</strong> <br/></p>
+<p style="text-align:center;"><span class="dot"><h4 style="font-size:25px;color:green;">      Kemasukan ke Maktab Rendah</h4>
+	<p style="font-weight:bold;text-align:left;">   Kemasukan ke Maktab Rendah:</p>
+	<p style="font-weight:bold;text-align:left;">     
+Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
+	 <ul>
+  	<li>Pelajar Menengah 4 atau 5 mohon ke Maktab Rendah berdasarkan pencapaian dan kecenderungan mereka sebelum keputusan peperiksaan GCE Peringkat ‘O’ diumumkan.</li>
+  		<li>Permohonan dibuka pada pertengahan Mei hingga akhir Jun.</li>	
+  </ul>
+	
+<p style="font-weight:bold;text-align:left;">     
+   Permohonan menerusi Latihan Permohonan Bersama (JAE)</p>
+	 <ul>
+  	<li>   Pelajar memohon ke Maktab Rendah selepas keputusan peperiksaan GCE Peringkat ‘A’ diumumkan.</li>
+  		<li>   Untuk layak, pelajar perlu menawarkan subjek H2 Bahasa dan Kesusasteraan Melayu (H2MLL) dalam permohonan mereka.</li>	
+  </ul>
+	
+<p style="font-weight:bold;text-align:left;">     
+     Mata Bonus</p>
+	 <ul>
+  	<li> Pelajar yang berjaya memasuki Program MLEP-JC akan mendapat dua mata bonus untuk kemasukan ke maktab rendah yang menawarkan program ini.</li>
+  </ul>
+
+<p style="text-align:left;"><strong>Biasiswa MLEP-JC (MLES)</strong> <br/></p>
 <li>Warganegara Singapura</li>
 <li>Cemerlang dalam keputusan akademik</li>
 <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun</li>
