@@ -10,10 +10,12 @@ description: ""
   text-align: left;
   width: 20%;
   font-family:Lato,sans-serif;
+	font-size:14px;
   } 
 @media only screen and (max-width: 600px) {
 .backbtn {
       margin-left: 6px;
+	font-size:14px;
   }
 }
 </style>
