@@ -50,10 +50,10 @@ These are sessions available for pre-registration. Click on each category to fin
 				<center>
   <p style="background-color: lightgoldenrodyellow;
             width: 45%;font-size: 14px;font-family:Lato,sans-serif;"><strong>For Children</strong></p> 
+					</center>
   <div class="row">
   <div class="column">
-		</center>
-<a href="https://event-reg.biz/Registration/RegDelegate_MTLS2022StorytellingSession?FLW=nGOARKRwg7/YcYSAr1kqEQ==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=MP3myIc8Lp0DxoNPRgx8jQ==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==" target="_blank"><img src="/images/Storyingtelling_3.jpg" style="width:100%"></a>
+		<a href="https://event-reg.biz/Registration/RegDelegate_MTLS2022StorytellingSession?FLW=nGOARKRwg7/YcYSAr1kqEQ==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=MP3myIc8Lp0DxoNPRgx8jQ==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==" target="_blank"><img src="/images/Storyingtelling_3.jpg" style="width:100%"></a>
   </div>
   <div class="column">
   <a href="https://event-reg.biz/Registration/RegDelegate_MTLS2022EngagementSession?FLW=16gFqWgviPD39J0h%7C%7CRNUjA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=SHatfdeRi657A0m4wzE/Ug==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==" target="_blank"> <img src="/images/Engagement_4.jpg" style="width:100%"></a>
