@@ -13,7 +13,7 @@ description: ""
   } 
 @media only screen and (max-width: 600px) {
 .backbtn {
-    background-color: lightblue;
+      margin-left: 6px;
   }
 }
 </style>
