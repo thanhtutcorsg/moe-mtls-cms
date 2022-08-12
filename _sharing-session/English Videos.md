@@ -8,7 +8,7 @@ description: ""
 <style>
 	.btn1{
 	font-size: 18px;
-    font-family: KaiTi;
+    font-family:Lato,sans-serif;
     background-color: #fa0;
     padding: 10px 13px;
     margin: -5px 13px;
@@ -32,34 +32,34 @@ text-decoration:none;
 </style>
 </head>
 <body>
-	<h4><b>Live Sharing Session</b></h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Live Sharing Session</b></h4>
 	<table style="border-collapse: collapse;
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#fa0;color:#fff">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br/>
+  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br/>
   [ Live Sharing Session from 4pm to 5pm ]<br/>
 Ms Rilla Melati
 		<br/>
         </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;">
+  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/Ms-Rilla-Melati" class="btn1" style="color:#fff;">Watch Here!</a>
 </td>
     </tr>
 </table>
-<h4>Pre-Recorded Session</h4>
+<h4 style="font-family:Lato,sans-serif;">Pre-Recorded Session</h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#fa0;color:#fff">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br/>
+  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br/>
   [Pre-Recorded Sessions]<br/>
 Dr. Shuhan C. Wang<br/>
      </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Dr-Shuhan-C-Wang" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Dr-Shuhan-C-Wang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here!</a>
 </td>
     </tr>
 </table>
