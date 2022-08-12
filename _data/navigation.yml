@@ -4,3 +4,38 @@ links:
     url: /about-us/
   - title: OPENING CEREMONY
     url: /opening-ceremony/
+- title: Programme
+    collection: exhibits
+- title: SHARING SESSIONS
+    url: /english-session
+    sublinks:
+      - title: "English "
+        url: /english-session
+      - title: 华文视频
+        url: /chinese-session
+      - title: Video Bahasa Melayu
+        url: /malay-session
+      - title: தமிழ் ஒளிக்காட்சிகள்
+        url: /tamil-session
+      - title: Register Now
+        url: /register-now
+- title: Exhibits
+    url: /exhibits/overview/overview
+    sublinks:
+      - title: Overview
+        url: /exhibits/overview/overview
+      - title: 华文学习展示区
+        url: /exhibits/chinese-exhibitions-a/chinese-Overview
+      - title: Pameran Bahasa Melayu
+        url: /exhibits/melayu-malay-language-exhibitions-a/gambaran-keseluruhan
+      - title: தமிழ்மொழிக் காட்சிக்கூடம்
+        url: /exhibits/tmail-exhibitions-a/tl-overview
+- title: OPMTL TEACHER AWARD
+    url: /OPMTL-Award
+- title: Activities
+    url: /activities
+    sublinks:
+      - title: Online Quest
+        url: /online-quest
+      - title: Explore@MTLS Activity Package​
+        url: https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls
