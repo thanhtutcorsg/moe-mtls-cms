@@ -2,7 +2,6 @@
 title: About Us
 permalink: /about-us
 description: ""
-published: false
 ---
 <html>
 	<style>
