@@ -55,24 +55,4 @@ sections:
       alt: Image alt text
       url: register-now
       image: /images/Mascot_Banners_600x300px_2.jpg
-  - infopic:
-      title: Online Quest
-      subtitle: Help our mascots out!
-      description: Join our mascots Xiao Tao, Sani, Kavin and Peppy at the MTLS Joyful
-        Garden!  Help them complete various tasks to keep the garden
-        flourishing!
-      button: Scan the QR Code or click here!
-      url: /activities
-      alt: Image alt text
-      image: /images/2022-08-08_Online_Quest_600x300px.jpg
-  - infopic:
-      title: Explore@MTLS
-      subtitle: A fun-filled activity package!
-      description: Unleash your child’s creativity and critical thinking by
-        downloading this fun-filled learning package! Have a chance to redeem a
-        limited-edition MTLS souvenir!
-      button: Explore here
-      url: mtl-challenge
-      alt: Image alt text
-      image: /images/2022-08-08_MTL_Challenge_600x300px.jpg
 ---
