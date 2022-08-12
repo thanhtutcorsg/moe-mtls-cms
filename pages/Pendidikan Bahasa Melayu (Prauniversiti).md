@@ -97,7 +97,7 @@ width:90% ;
   				<li>Maktab Rendah Tampines Meridian</li>
   					<li >Maktab Rendah Yishun Innova</li>
   </ul>
-<p style="text-align:center;"><span class="dot"><h4 style="font-size:25px;color:green;">      Kemasukan ke Maktab Rendah</h4>
+<h4 style="font-size:25px;color:green;">      Kemasukan ke Maktab Rendah</h4>
 	<p style="font-weight:bold;text-align:left;">   Kemasukan ke Maktab Rendah:</p>
 	<p style="font-weight:bold;text-align:left;">     
 Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
