@@ -3,7 +3,21 @@ title: MK@Horizon
 permalink: /MK-Horizon-synopses
 description: ""
 ---
-<style>
+<style>   
+	.btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #3bb9ff;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
   .backbtn{
    margin-left: -110px;
    border: none;
@@ -30,3 +44,4 @@ color: #d84178;">培养双语幼儿</h4>
 At MK@Horizon, the Starlight Literacy programme for MTL, uses routines and learning-centre time to encourage children to interact with one another in their MTL within a variety of meaningful contexts. Children also develop an appreciation for local ethnic cultures. <br/>
 The weekly, dedicated learning-centre time allows children to learn more about Chinese, Malay or Indian culture through purposeful play. Through the “Read for Joy” programme, interactive games and “Weeks of Wonder” projects, children develop both an interest and confidence in communicating in their MTL.<br/>
 Learning MTL interactively is both natural and enjoyable for children. </p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
