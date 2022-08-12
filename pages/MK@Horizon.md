@@ -4,7 +4,7 @@ permalink: /MK-Horizon-synopses
 description: ""
 ---
 <p style="border: none;
-  text-align: left;padding: 5px;width: 20%;"><a href="/exhibits/chinese-exhibitions-c/preschool" style="float:right;">Back</a>
+  text-align: left;width: 20%;"><a href="/exhibits/chinese-exhibitions-c/preschool" style="float:left;">Back</a>
   </p><br/>
 <h4 style="font-size: 35px;font-family: KaiTi; padding-top:12px ;margin:10px;
 color: #d84178;">培养双语幼儿</h4>
